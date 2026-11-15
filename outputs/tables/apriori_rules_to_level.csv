@@ -1,0 +1,64 @@
+lhs,rhs,support,confidence,lift,count
+repo=High AND wpi_all_yoy=High,level=HIGH,0.056,1.0,3.89,8
+repo=Low AND usdinr_yoy=High,level=HIGH,0.069,0.769,2.99,10
+brent_inr_yoy=Mid AND repo=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.076,0.846,2.9,11
+brent_inr_yoy=Mid AND repo=Mid AND wpi_all_yoy=Mid,level=LOW,0.09,0.812,2.79,13
+repo=Mid AND usdinr_yoy=Low AND wpi_fuel_yoy=High,level=LOW,0.056,0.8,2.74,8
+brent_inr_yoy=Low AND repo=Low AND wpi_fuel_yoy=Low,level=HIGH,0.056,0.667,2.59,8
+usdinr_yoy=High AND wpi_all_yoy=High,level=HIGH,0.09,0.65,2.53,13
+usdinr_yoy=High AND wpi_all_yoy=High AND wpi_fuel_yoy=High,level=HIGH,0.09,0.65,2.53,13
+brent_inr_yoy=Mid AND repo=Mid,level=LOW,0.09,0.722,2.48,13
+repo=Mid AND wpi_all_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.083,0.706,2.42,12
+usdinr_yoy=High AND wpi_fuel_yoy=High,level=HIGH,0.09,0.619,2.41,13
+repo=Mid AND wpi_all_yoy=Mid,level=LOW,0.111,0.696,2.39,16
+repo=Low AND wpi_fuel_yoy=High,level=HIGH,0.083,0.6,2.34,12
+repo=Low AND wpi_all_yoy=High AND wpi_fuel_yoy=High,level=HIGH,0.083,0.6,2.34,12
+brent_inr_yoy=High AND repo=Low AND wpi_fuel_yoy=High,level=HIGH,0.083,0.6,2.34,12
+brent_inr_yoy=High AND repo=Low,level=HIGH,0.09,0.591,2.3,13
+repo=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.083,0.667,2.29,12
+brent_inr_yoy=Mid AND wpi_all_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.104,0.652,2.24,15
+repo=Low AND wpi_fuel_yoy=Low,level=HIGH,0.056,0.571,2.22,8
+repo=Low AND wpi_all_yoy=High,level=HIGH,0.083,0.571,2.22,12
+brent_inr_yoy=High AND repo=Low AND wpi_all_yoy=High,level=HIGH,0.083,0.571,2.22,12
+repo=Low AND wpi_fuel_yoy=Mid,level=LOW,0.062,0.643,2.2,9
+brent_inr_yoy=Low AND repo=Low,level=HIGH,0.062,0.562,2.19,9
+repo=Mid AND usdinr_yoy=Low,level=LOW,0.069,0.625,2.14,10
+brent_inr_yoy=Mid AND usdinr_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.069,0.625,2.14,10
+usdinr_yoy=Mid AND wpi_all_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.056,0.615,2.11,8
+brent_inr_yoy=Mid AND wpi_all_yoy=Mid,level=LOW,0.118,0.607,2.08,17
+usdinr_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.09,0.591,2.03,13
+brent_inr_yoy=Mid AND wpi_fuel_yoy=Mid,level=LOW,0.139,0.571,1.96,20
+brent_inr_yoy=High AND repo=Mid AND wpi_fuel_yoy=High,level=LOW,0.069,0.556,1.9,10
+repo=High AND usdinr_yoy=High AND wpi_fuel_yoy=Low,level=MEDIUM,0.069,0.833,1.85,10
+repo=High AND usdinr_yoy=High AND wpi_all_yoy=Low,level=MEDIUM,0.069,0.833,1.85,10
+brent_inr_yoy=Low AND repo=High AND usdinr_yoy=High,level=MEDIUM,0.069,0.833,1.85,10
+repo=High AND wpi_all_yoy=Low,level=MEDIUM,0.153,0.815,1.81,22
+usdinr_yoy=Low AND wpi_all_yoy=Low,level=MEDIUM,0.056,0.8,1.77,8
+brent_inr_yoy=Low AND repo=High AND wpi_all_yoy=Low,level=MEDIUM,0.111,0.8,1.77,16
+brent_inr_yoy=Low AND repo=High,level=MEDIUM,0.132,0.792,1.75,19
+brent_inr_yoy=Low AND repo=High AND wpi_fuel_yoy=Low,level=MEDIUM,0.132,0.792,1.75,19
+repo=High AND wpi_fuel_yoy=Low,level=MEDIUM,0.146,0.778,1.72,21
+repo=High AND wpi_all_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.118,0.773,1.71,17
+repo=High AND wpi_all_yoy=Mid,level=MEDIUM,0.069,0.769,1.7,10
+repo=High AND usdinr_yoy=Mid,level=MEDIUM,0.069,0.714,1.58,10
+brent_inr_yoy=Mid AND repo=High AND wpi_fuel_yoy=Mid,level=MEDIUM,0.069,0.714,1.58,10
+repo=High AND usdinr_yoy=Low,level=MEDIUM,0.083,0.706,1.56,12
+usdinr_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.062,0.692,1.53,9
+repo=High AND wpi_fuel_yoy=Mid,level=MEDIUM,0.076,0.688,1.52,11
+repo=High,level=MEDIUM,0.222,0.667,1.48,32
+brent_inr_yoy=Low AND usdinr_yoy=High,level=MEDIUM,0.097,0.667,1.48,14
+brent_inr_yoy=Low AND usdinr_yoy=High AND wpi_all_yoy=Low,level=MEDIUM,0.09,0.65,1.44,13
+wpi_all_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.153,0.629,1.39,22
+brent_inr_yoy=Low AND wpi_all_yoy=Low,level=MEDIUM,0.153,0.629,1.39,22
+brent_inr_yoy=Low AND wpi_all_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.139,0.625,1.38,20
+usdinr_yoy=High AND wpi_all_yoy=Low,level=MEDIUM,0.09,0.619,1.37,13
+usdinr_yoy=High AND wpi_fuel_yoy=Low,level=MEDIUM,0.076,0.611,1.35,11
+brent_inr_yoy=Low AND usdinr_yoy=High AND wpi_fuel_yoy=Low,level=MEDIUM,0.076,0.611,1.35,11
+usdinr_yoy=High AND wpi_all_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.076,0.611,1.35,11
+wpi_fuel_yoy=Low,level=MEDIUM,0.201,0.604,1.34,29
+wpi_all_yoy=Low,level=MEDIUM,0.201,0.604,1.34,29
+brent_inr_yoy=Mid AND repo=High,level=MEDIUM,0.083,0.6,1.33,12
+repo=High AND usdinr_yoy=High,level=MEDIUM,0.069,0.588,1.3,10
+brent_inr_yoy=Low AND wpi_fuel_yoy=Low,level=MEDIUM,0.167,0.571,1.27,24
+brent_inr_yoy=Low,level=MEDIUM,0.188,0.562,1.25,27
+brent_inr_yoy=High AND usdinr_yoy=Low,level=MEDIUM,0.076,0.55,1.22,11

@@ -1,0 +1,163 @@
+@relation inflation_level_nominal
+
+@attribute usdinr_yoy {low,mid,high}
+@attribute usdinr_mom {low,mid,high}
+@attribute usdinr_vol {low,mid,high}
+@attribute brent_inr_yoy {low,mid,high}
+@attribute brent_inr_mom {low,mid,high}
+@attribute brent_usd_yoy {low,mid,high}
+@attribute wpi_all_yoy {low,mid,high}
+@attribute wpi_fuel_yoy {low,mid,high}
+@attribute wpi_food_yoy {low,mid,high}
+@attribute wpi_manuf_yoy {low,mid,high}
+@attribute repo {low,mid,high}
+@attribute repo_chg_6m {low,mid,high}
+@attribute usdinr_mom_r3 {low,mid,high}
+@attribute brent_inr_mom_r3 {low,mid,high}
+@attribute infl_level {LOW,MEDIUM,HIGH}
+
+@data
+high,mid,high,mid,mid,mid,high,high,high,high,high,high,mid,mid,HIGH
+high,mid,mid,mid,mid,mid,high,high,high,high,high,high,low,mid,HIGH
+high,low,high,mid,mid,mid,high,high,high,high,high,high,low,mid,HIGH
+high,low,high,high,mid,mid,high,high,high,high,high,high,low,mid,HIGH
+high,low,high,high,mid,mid,high,high,high,high,high,high,low,mid,HIGH
+mid,high,mid,high,mid,high,high,mid,mid,high,high,high,low,mid,HIGH
+low,mid,mid,mid,low,mid,high,mid,high,high,high,mid,low,mid,HIGH
+low,high,high,mid,low,mid,high,mid,high,high,high,mid,high,mid,HIGH
+low,mid,mid,low,low,mid,mid,low,mid,mid,high,mid,high,low,MEDIUM
+low,high,high,low,low,low,mid,low,low,mid,high,mid,high,low,MEDIUM
+low,mid,low,low,low,low,low,low,low,mid,high,mid,mid,low,LOW
+low,high,high,low,low,low,low,low,mid,mid,high,mid,high,low,MEDIUM
+low,low,high,low,low,low,low,low,mid,mid,high,low,mid,low,MEDIUM
+low,low,mid,low,high,low,low,low,mid,low,high,low,mid,low,MEDIUM
+mid,mid,mid,low,mid,low,low,low,mid,low,high,low,low,low,MEDIUM
+mid,mid,high,low,high,low,low,low,mid,low,high,low,mid,high,MEDIUM
+high,high,mid,low,high,low,low,low,mid,low,high,low,high,high,MEDIUM
+high,mid,mid,low,low,low,low,low,mid,low,high,low,high,high,MEDIUM
+high,low,low,low,low,low,low,low,low,low,high,low,mid,mid,LOW
+high,high,high,low,low,low,low,low,low,low,high,low,high,low,LOW
+high,high,high,low,mid,low,low,low,low,low,high,low,high,low,MEDIUM
+high,low,mid,low,mid,low,low,low,low,low,high,low,high,low,MEDIUM
+high,high,mid,low,low,low,low,low,mid,low,high,low,high,mid,MEDIUM
+high,high,mid,low,low,low,low,low,mid,low,high,low,mid,low,MEDIUM
+high,high,mid,low,low,low,low,low,mid,low,high,low,high,low,MEDIUM
+high,high,high,low,high,low,low,low,mid,low,high,low,high,low,MEDIUM
+high,low,high,low,high,low,low,low,mid,low,high,mid,mid,mid,MEDIUM
+high,low,mid,low,high,low,low,low,mid,low,mid,low,low,high,MEDIUM
+mid,mid,mid,low,high,low,low,low,high,low,mid,low,low,high,MEDIUM
+mid,mid,mid,low,mid,low,low,low,high,low,mid,low,mid,high,MEDIUM
+high,mid,low,low,low,low,low,low,high,low,mid,low,mid,high,HIGH
+mid,low,low,mid,mid,mid,mid,low,mid,low,mid,low,mid,mid,MEDIUM
+low,low,mid,mid,mid,mid,mid,mid,mid,mid,mid,low,low,low,MEDIUM
+mid,mid,low,mid,high,mid,mid,mid,mid,mid,mid,low,low,high,MEDIUM
+mid,high,high,mid,low,mid,mid,mid,mid,mid,mid,low,mid,mid,LOW
+mid,mid,mid,high,high,high,mid,mid,low,mid,mid,mid,high,high,LOW
+low,mid,mid,high,mid,high,high,high,low,high,mid,mid,high,high,LOW
+low,low,low,high,mid,high,high,high,mid,high,mid,mid,low,high,LOW
+low,low,mid,high,low,high,high,high,mid,high,mid,mid,low,low,LOW
+low,low,mid,high,mid,high,high,high,low,mid,mid,mid,low,low,LOW
+low,mid,high,mid,low,mid,mid,high,low,mid,mid,mid,low,low,LOW
+low,mid,low,mid,low,mid,mid,mid,low,mid,mid,mid,low,low,LOW
+low,mid,low,mid,mid,mid,mid,mid,low,mid,mid,mid,low,low,LOW
+low,low,mid,mid,high,high,mid,high,mid,mid,mid,mid,low,mid,LOW
+low,high,mid,high,high,high,mid,high,low,mid,mid,mid,mid,high,LOW
+low,high,mid,high,high,high,high,high,mid,mid,mid,mid,mid,high,LOW
+low,low,mid,high,high,high,high,high,mid,mid,mid,mid,mid,high,MEDIUM
+low,low,low,high,mid,high,high,high,mid,mid,mid,mid,low,high,MEDIUM
+low,low,high,high,high,high,mid,mid,mid,mid,mid,mid,low,high,MEDIUM
+low,high,high,high,low,high,mid,mid,low,high,mid,mid,low,mid,MEDIUM
+low,high,low,high,mid,high,mid,mid,low,mid,mid,mid,mid,mid,MEDIUM
+mid,high,low,high,high,high,high,high,low,high,mid,mid,high,mid,MEDIUM
+mid,high,high,high,high,high,high,high,low,high,mid,mid,high,high,MEDIUM
+mid,mid,high,high,mid,high,high,high,low,high,mid,high,high,high,MEDIUM
+high,high,mid,high,mid,high,high,high,low,high,mid,high,high,high,MEDIUM
+high,high,high,high,mid,high,high,high,low,high,mid,high,high,mid,LOW
+high,high,high,high,high,high,high,high,low,high,mid,high,high,high,LOW
+high,high,high,high,mid,high,high,high,low,high,mid,high,high,high,LOW
+high,low,high,high,low,mid,high,high,low,high,mid,high,high,low,LOW
+high,low,high,mid,low,mid,mid,mid,low,high,mid,high,low,low,LOW
+high,mid,high,mid,high,mid,mid,mid,low,mid,mid,high,low,low,LOW
+high,high,high,mid,high,mid,mid,mid,mid,mid,mid,mid,low,mid,LOW
+high,low,high,mid,mid,mid,mid,mid,mid,mid,mid,mid,low,high,LOW
+high,low,high,mid,high,mid,mid,mid,high,mid,mid,low,low,high,LOW
+mid,mid,high,mid,mid,mid,mid,mid,high,mid,mid,low,low,high,LOW
+mid,low,low,mid,low,low,mid,mid,high,mid,low,low,low,mid,LOW
+low,low,low,low,mid,mid,mid,low,high,low,low,low,low,low,LOW
+mid,high,high,low,low,low,mid,mid,high,low,low,low,high,low,LOW
+low,mid,high,low,high,low,low,low,high,low,low,low,high,mid,LOW
+low,low,mid,low,low,low,low,low,high,low,low,low,high,mid,MEDIUM
+low,mid,mid,mid,high,mid,low,low,high,low,low,low,mid,mid,MEDIUM
+low,low,low,high,high,high,mid,mid,high,low,low,low,low,mid,HIGH
+low,mid,mid,mid,mid,mid,mid,mid,high,low,low,low,mid,mid,HIGH
+low,mid,mid,low,low,mid,mid,mid,high,low,low,mid,mid,low,HIGH
+high,high,high,low,low,low,low,mid,mid,low,low,low,high,low,MEDIUM
+high,high,high,low,low,low,low,low,mid,low,low,low,high,low,HIGH
+high,low,high,low,high,low,low,low,low,low,low,low,high,low,HIGH
+high,mid,mid,low,high,low,low,low,low,low,low,low,high,high,HIGH
+high,low,mid,low,high,low,low,low,mid,low,low,low,low,high,HIGH
+mid,low,high,low,mid,low,low,low,mid,mid,low,low,low,high,HIGH
+mid,low,high,low,low,low,mid,low,high,mid,low,low,low,mid,HIGH
+mid,mid,low,low,mid,low,mid,low,high,mid,low,low,low,low,HIGH
+mid,high,mid,low,high,low,mid,low,mid,high,low,mid,low,mid,HIGH
+mid,low,low,low,high,low,mid,low,low,high,low,mid,mid,high,MEDIUM
+mid,low,low,mid,high,mid,mid,low,low,high,low,mid,low,high,MEDIUM
+mid,low,mid,high,high,high,high,mid,low,high,low,mid,low,high,MEDIUM
+low,mid,high,high,high,high,high,high,mid,high,low,mid,low,high,MEDIUM
+low,high,high,high,mid,high,high,high,mid,high,low,mid,high,high,MEDIUM
+low,low,low,high,mid,high,high,high,mid,high,low,mid,mid,high,HIGH
+low,mid,mid,high,high,high,high,high,mid,high,low,mid,mid,high,HIGH
+low,high,mid,high,mid,high,high,high,low,high,low,mid,mid,high,MEDIUM
+low,low,mid,high,low,high,high,high,low,high,low,mid,mid,mid,MEDIUM
+low,low,low,high,high,high,high,high,low,high,low,mid,mid,mid,MEDIUM
+mid,high,mid,high,high,high,high,high,low,high,low,mid,mid,high,MEDIUM
+low,low,mid,high,low,high,high,high,mid,high,low,mid,mid,high,MEDIUM
+mid,high,mid,high,low,high,high,high,high,high,low,mid,high,mid,MEDIUM
+mid,low,mid,high,high,high,high,high,high,high,low,mid,low,mid,HIGH
+mid,high,high,high,high,high,high,high,high,high,low,mid,mid,high,HIGH
+mid,high,high,high,high,high,high,high,high,high,low,mid,mid,high,HIGH
+mid,mid,mid,high,low,high,high,high,high,high,low,high,high,high,HIGH
+high,high,high,high,high,high,high,high,high,high,low,high,high,high,HIGH
+high,high,low,high,high,high,high,high,high,high,low,high,high,mid,HIGH
+high,high,low,high,low,high,high,high,high,high,low,high,high,high,HIGH
+high,mid,high,high,low,high,high,high,high,high,low,high,high,low,HIGH
+high,high,high,high,low,high,high,high,high,high,low,high,high,low,HIGH
+high,high,high,high,high,high,high,high,high,high,low,high,high,low,HIGH
+high,low,high,high,mid,high,high,high,low,high,mid,high,high,low,MEDIUM
+high,high,mid,high,low,high,high,high,low,high,mid,high,high,low,MEDIUM
+high,low,mid,mid,mid,mid,high,high,mid,mid,mid,high,low,low,HIGH
+high,high,low,mid,mid,mid,high,high,mid,mid,mid,high,mid,low,HIGH
+high,low,mid,low,low,low,mid,high,mid,low,mid,high,low,mid,MEDIUM
+high,low,low,low,high,low,low,mid,mid,low,mid,high,mid,mid,MEDIUM
+high,mid,low,low,low,low,low,low,low,low,high,high,low,low,MEDIUM
+mid,low,low,low,mid,low,low,low,low,low,high,high,mid,mid,MEDIUM
+mid,mid,low,low,high,low,low,low,high,low,high,high,mid,mid,HIGH
+mid,high,low,mid,high,mid,low,low,high,low,high,high,mid,high,HIGH
+mid,mid,low,mid,high,mid,low,mid,mid,low,high,high,mid,high,MEDIUM
+low,mid,low,mid,mid,mid,low,mid,mid,low,high,high,mid,high,MEDIUM
+mid,mid,low,mid,low,mid,low,low,high,low,high,high,mid,mid,MEDIUM
+low,mid,low,mid,low,mid,mid,mid,high,low,high,high,mid,low,MEDIUM
+mid,low,low,mid,mid,mid,low,mid,high,low,high,high,low,low,MEDIUM
+low,low,low,mid,high,mid,low,mid,high,low,high,high,low,mid,MEDIUM
+low,mid,low,mid,mid,high,low,mid,high,low,high,high,low,high,MEDIUM
+mid,mid,low,mid,high,mid,mid,mid,high,low,high,high,mid,high,MEDIUM
+low,mid,low,mid,low,high,mid,mid,high,low,high,high,mid,mid,MEDIUM
+mid,mid,low,high,mid,high,mid,mid,high,mid,high,high,mid,mid,MEDIUM
+mid,mid,low,mid,mid,mid,mid,mid,mid,mid,high,high,mid,low,LOW
+low,mid,low,mid,low,mid,mid,mid,mid,low,high,high,mid,mid,LOW
+low,mid,low,low,low,low,mid,low,high,mid,high,high,mid,low,MEDIUM
+low,mid,low,low,mid,low,mid,low,high,mid,high,high,mid,low,HIGH
+low,mid,low,mid,mid,mid,mid,low,high,mid,high,high,mid,low,MEDIUM
+mid,high,low,mid,mid,mid,mid,mid,high,mid,high,high,mid,mid,MEDIUM
+mid,high,low,mid,high,mid,mid,mid,mid,mid,high,high,high,mid,MEDIUM
+mid,high,mid,mid,low,mid,mid,mid,mid,mid,mid,mid,high,mid,LOW
+mid,low,low,mid,low,mid,mid,mid,low,high,mid,mid,high,mid,LOW
+mid,low,high,low,low,low,mid,low,low,mid,mid,low,low,low,LOW
+mid,low,high,low,low,low,low,low,low,mid,mid,low,low,low,LOW
+mid,high,mid,mid,high,mid,low,mid,low,mid,low,low,low,mid,LOW
+mid,mid,low,low,mid,low,low,mid,low,mid,low,low,mid,mid,LOW
+mid,high,low,mid,mid,low,low,mid,low,mid,low,low,high,high,LOW
+high,high,mid,mid,mid,mid,low,mid,low,mid,low,low,high,mid,LOW
+mid,mid,mid,mid,low,mid,low,mid,low,mid,low,low,high,low,LOW
+mid,mid,low,mid,mid,mid,low,mid,low,mid,low,low,high,low,LOW
+high,high,high,mid,mid,low,mid,mid,low,mid,low,mid,high,low,LOW

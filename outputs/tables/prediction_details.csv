@@ -1,0 +1,1209 @@
+scheme,month,actual,model,predicted
+V: validation 2023,2023-01-01,6.52,Naive (last value),5.72
+V: validation 2023,2023-02-01,6.44,Naive (last value),6.52
+V: validation 2023,2023-03-01,5.66,Naive (last value),6.44
+V: validation 2023,2023-04-01,4.7,Naive (last value),5.66
+V: validation 2023,2023-05-01,4.31,Naive (last value),4.7
+V: validation 2023,2023-06-01,4.87,Naive (last value),4.31
+V: validation 2023,2023-07-01,7.44,Naive (last value),4.87
+V: validation 2023,2023-08-01,6.83,Naive (last value),7.44
+V: validation 2023,2023-09-01,5.02,Naive (last value),6.83
+V: validation 2023,2023-10-01,4.87,Naive (last value),5.02
+V: validation 2023,2023-11-01,5.55,Naive (last value),4.87
+V: validation 2023,2023-12-01,5.69,Naive (last value),5.55
+V: validation 2023,2023-01-01,6.52,ARIMA (auto order),5.825845578325289
+V: validation 2023,2023-02-01,6.44,ARIMA (auto order),6.670034269642513
+V: validation 2023,2023-03-01,5.66,ARIMA (auto order),6.274954108869429
+V: validation 2023,2023-04-01,4.7,ARIMA (auto order),5.589255101361896
+V: validation 2023,2023-05-01,4.31,ARIMA (auto order),4.647844712032011
+V: validation 2023,2023-06-01,4.87,ARIMA (auto order),4.406639348639753
+V: validation 2023,2023-07-01,7.44,ARIMA (auto order),5.014101874866792
+V: validation 2023,2023-08-01,6.83,ARIMA (auto order),7.797958297462081
+V: validation 2023,2023-09-01,5.02,ARIMA (auto order),6.223433762587473
+V: validation 2023,2023-10-01,4.87,ARIMA (auto order),4.97352817895325
+V: validation 2023,2023-11-01,5.55,ARIMA (auto order),5.064969685044345
+V: validation 2023,2023-12-01,5.69,ARIMA (auto order),5.6564143958988495
+V: validation 2023,2023-01-01,6.52,Ridge - outside only,4.1556889958390855
+V: validation 2023,2023-02-01,6.44,Ridge - outside only,4.687504225204509
+V: validation 2023,2023-03-01,5.66,Ridge - outside only,4.011629558390378
+V: validation 2023,2023-04-01,4.7,Ridge - outside only,3.4512783184926317
+V: validation 2023,2023-05-01,4.31,Ridge - outside only,3.420628161204723
+V: validation 2023,2023-06-01,4.87,Ridge - outside only,3.2286462433522294
+V: validation 2023,2023-07-01,7.44,Ridge - outside only,3.6594094896768192
+V: validation 2023,2023-08-01,6.83,Ridge - outside only,6.3080517110339045
+V: validation 2023,2023-09-01,5.02,Ridge - outside only,5.523557423914129
+V: validation 2023,2023-10-01,4.87,Ridge - outside only,4.139019990682787
+V: validation 2023,2023-11-01,5.55,Ridge - outside only,5.311611222483028
+V: validation 2023,2023-12-01,5.69,Ridge - outside only,6.021345127070743
+V: validation 2023,2023-01-01,6.52,Random Forest (extra) - outside only,3.5042913398021223
+V: validation 2023,2023-02-01,6.44,Random Forest (extra) - outside only,3.732624921722923
+V: validation 2023,2023-03-01,5.66,Random Forest (extra) - outside only,3.5973977843192886
+V: validation 2023,2023-04-01,4.7,Random Forest (extra) - outside only,4.09342765610573
+V: validation 2023,2023-05-01,4.31,Random Forest (extra) - outside only,4.16740086129333
+V: validation 2023,2023-06-01,4.87,Random Forest (extra) - outside only,4.068994285645484
+V: validation 2023,2023-07-01,7.44,Random Forest (extra) - outside only,4.479033926234195
+V: validation 2023,2023-08-01,6.83,Random Forest (extra) - outside only,5.424485544233253
+V: validation 2023,2023-09-01,5.02,Random Forest (extra) - outside only,5.756857502516727
+V: validation 2023,2023-10-01,4.87,Random Forest (extra) - outside only,5.022915421509956
+V: validation 2023,2023-11-01,5.55,Random Forest (extra) - outside only,4.569793372562557
+V: validation 2023,2023-12-01,5.69,Random Forest (extra) - outside only,5.644052769795968
+V: validation 2023,2023-01-01,6.52,Neural net - outside only,4.289382673588372
+V: validation 2023,2023-02-01,6.44,Neural net - outside only,4.317188966272811
+V: validation 2023,2023-03-01,5.66,Neural net - outside only,3.7978365922042703
+V: validation 2023,2023-04-01,4.7,Neural net - outside only,2.8535588936022207
+V: validation 2023,2023-05-01,4.31,Neural net - outside only,3.084358374818344
+V: validation 2023,2023-06-01,4.87,Neural net - outside only,3.249877744557071
+V: validation 2023,2023-07-01,7.44,Neural net - outside only,3.8780287465659384
+V: validation 2023,2023-08-01,6.83,Neural net - outside only,6.277586651724362
+V: validation 2023,2023-09-01,5.02,Neural net - outside only,5.307741850944713
+V: validation 2023,2023-10-01,4.87,Neural net - outside only,3.9866059285327546
+V: validation 2023,2023-11-01,5.55,Neural net - outside only,3.9007670072517655
+V: validation 2023,2023-12-01,5.69,Neural net - outside only,4.954694050859726
+V: validation 2023,2023-01-01,6.52,Ridge - with CPI,5.274327576847624
+V: validation 2023,2023-02-01,6.44,Ridge - with CPI,6.399171653765445
+V: validation 2023,2023-03-01,5.66,Ridge - with CPI,5.748539558044616
+V: validation 2023,2023-04-01,4.7,Ridge - with CPI,5.324498101906063
+V: validation 2023,2023-05-01,4.31,Ridge - with CPI,4.721001224983766
+V: validation 2023,2023-06-01,4.87,Ridge - with CPI,4.4406526805158535
+V: validation 2023,2023-07-01,7.44,Ridge - with CPI,4.921460734382365
+V: validation 2023,2023-08-01,6.83,Ridge - with CPI,8.347392653259323
+V: validation 2023,2023-09-01,5.02,Ridge - with CPI,6.1339140327953805
+V: validation 2023,2023-10-01,4.87,Ridge - with CPI,4.062667734463713
+V: validation 2023,2023-11-01,5.55,Ridge - with CPI,4.925521669820161
+V: validation 2023,2023-12-01,5.69,Ridge - with CPI,6.248908073933377
+V: validation 2023,2023-01-01,6.52,Random Forest (extra) - with CPI,5.713300712590102
+V: validation 2023,2023-02-01,6.44,Random Forest (extra) - with CPI,6.190370628844348
+V: validation 2023,2023-03-01,5.66,Random Forest (extra) - with CPI,5.9200152149665515
+V: validation 2023,2023-04-01,4.7,Random Forest (extra) - with CPI,5.669763444477407
+V: validation 2023,2023-05-01,4.31,Random Forest (extra) - with CPI,4.661311308345442
+V: validation 2023,2023-06-01,4.87,Random Forest (extra) - with CPI,4.470772392681327
+V: validation 2023,2023-07-01,7.44,Random Forest (extra) - with CPI,4.754018490482822
+V: validation 2023,2023-08-01,6.83,Random Forest (extra) - with CPI,6.4971323255573905
+V: validation 2023,2023-09-01,5.02,Random Forest (extra) - with CPI,6.226650729690855
+V: validation 2023,2023-10-01,4.87,Random Forest (extra) - with CPI,5.005930392766193
+V: validation 2023,2023-11-01,5.55,Random Forest (extra) - with CPI,4.716250890776796
+V: validation 2023,2023-12-01,5.69,Random Forest (extra) - with CPI,5.9992710295743725
+V: validation 2023,2023-01-01,6.52,Neural net - with CPI,5.2264377298073645
+V: validation 2023,2023-02-01,6.44,Neural net - with CPI,5.96806268374872
+V: validation 2023,2023-03-01,5.66,Neural net - with CPI,5.4250375205913866
+V: validation 2023,2023-04-01,4.7,Neural net - with CPI,4.969489909941087
+V: validation 2023,2023-05-01,4.31,Neural net - with CPI,4.3565487629976545
+V: validation 2023,2023-06-01,4.87,Neural net - with CPI,3.603152784223933
+V: validation 2023,2023-07-01,7.44,Neural net - with CPI,4.323118331362183
+V: validation 2023,2023-08-01,6.83,Neural net - with CPI,7.121035362319512
+V: validation 2023,2023-09-01,5.02,Neural net - with CPI,5.9417831126809055
+V: validation 2023,2023-10-01,4.87,Neural net - with CPI,4.368072132772526
+V: validation 2023,2023-11-01,5.55,Neural net - with CPI,4.791737143897438
+V: validation 2023,2023-12-01,5.69,Neural net - with CPI,5.257281326484427
+T: test 2024-25,2024-01-01,5.1,Naive (last value),5.69
+T: test 2024-25,2024-02-01,5.09,Naive (last value),5.1
+T: test 2024-25,2024-03-01,4.85,Naive (last value),5.09
+T: test 2024-25,2024-04-01,4.83,Naive (last value),4.85
+T: test 2024-25,2024-05-01,4.8,Naive (last value),4.83
+T: test 2024-25,2024-06-01,5.08,Naive (last value),4.8
+T: test 2024-25,2024-07-01,3.6,Naive (last value),5.08
+T: test 2024-25,2024-08-01,3.65,Naive (last value),3.6
+T: test 2024-25,2024-09-01,5.49,Naive (last value),3.65
+T: test 2024-25,2024-10-01,6.21,Naive (last value),5.49
+T: test 2024-25,2024-11-01,5.48,Naive (last value),6.21
+T: test 2024-25,2024-12-01,5.22,Naive (last value),5.48
+T: test 2024-25,2025-01-01,4.26,Naive (last value),5.22
+T: test 2024-25,2025-02-01,3.61,Naive (last value),4.26
+T: test 2024-25,2025-03-01,3.34,Naive (last value),3.61
+T: test 2024-25,2025-04-01,3.16,Naive (last value),3.34
+T: test 2024-25,2025-05-01,2.82,Naive (last value),3.16
+T: test 2024-25,2025-06-01,2.1,Naive (last value),2.82
+T: test 2024-25,2025-07-01,1.61,Naive (last value),2.1
+T: test 2024-25,2025-08-01,2.07,Naive (last value),1.61
+T: test 2024-25,2025-09-01,1.44,Naive (last value),2.07
+T: test 2024-25,2025-10-01,0.25,Naive (last value),1.44
+T: test 2024-25,2025-11-01,0.71,Naive (last value),0.25
+T: test 2024-25,2025-12-01,1.33,Naive (last value),0.71
+T: test 2024-25,2024-01-01,5.1,ARIMA (auto order),5.51809187760573
+T: test 2024-25,2024-02-01,5.09,ARIMA (auto order),4.942385525240486
+T: test 2024-25,2024-03-01,4.85,ARIMA (auto order),5.261171734704297
+T: test 2024-25,2024-04-01,4.83,ARIMA (auto order),4.805533148332899
+T: test 2024-25,2024-05-01,4.8,ARIMA (auto order),4.896482467606756
+T: test 2024-25,2024-06-01,5.08,ARIMA (auto order),4.799944190120106
+T: test 2024-25,2024-07-01,3.6,ARIMA (auto order),5.14410587489716
+T: test 2024-25,2024-08-01,3.65,ARIMA (auto order),3.2255191215114336
+T: test 2024-25,2024-09-01,5.49,ARIMA (auto order),4.094209664757394
+T: test 2024-25,2024-10-01,6.21,ARIMA (auto order),5.838738373470514
+T: test 2024-25,2024-11-01,5.48,ARIMA (auto order),5.8122213919573325
+T: test 2024-25,2024-12-01,5.22,ARIMA (auto order),5.12452251755995
+T: test 2024-25,2025-01-01,4.26,ARIMA (auto order),5.382880808349105
+T: test 2024-25,2025-02-01,3.61,ARIMA (auto order),4.146695806519264
+T: test 2024-25,2025-03-01,3.34,ARIMA (auto order),3.7633512053849016
+T: test 2024-25,2025-04-01,3.16,ARIMA (auto order),3.477428211981879
+T: test 2024-25,2025-05-01,2.82,ARIMA (auto order),3.203685513348593
+T: test 2024-25,2025-06-01,2.1,ARIMA (auto order),2.805672260988067
+T: test 2024-25,2025-07-01,1.61,ARIMA (auto order),2.0575748817631365
+T: test 2024-25,2025-08-01,2.07,ARIMA (auto order),1.7245196379639296
+T: test 2024-25,2025-09-01,1.44,ARIMA (auto order),2.3046528416712713
+T: test 2024-25,2025-10-01,0.25,ARIMA (auto order),1.180575139771581
+T: test 2024-25,2025-11-01,0.71,ARIMA (auto order),0.1998529134582362
+T: test 2024-25,2025-12-01,1.33,ARIMA (auto order),1.1500812472683861
+T: test 2024-25,2024-01-01,5.1,Ridge - outside only,5.403201488344365
+T: test 2024-25,2024-02-01,5.09,Ridge - outside only,5.008451271257115
+T: test 2024-25,2024-03-01,4.85,Ridge - outside only,5.5006347548710295
+T: test 2024-25,2024-04-01,4.83,Ridge - outside only,5.550243347652939
+T: test 2024-25,2024-05-01,4.8,Ridge - outside only,5.623535333323522
+T: test 2024-25,2024-06-01,5.08,Ridge - outside only,5.909629002612901
+T: test 2024-25,2024-07-01,3.6,Ridge - outside only,6.0603446461365245
+T: test 2024-25,2024-08-01,3.65,Ridge - outside only,5.309020939331673
+T: test 2024-25,2024-09-01,5.49,Ridge - outside only,5.159559860087125
+T: test 2024-25,2024-10-01,6.21,Ridge - outside only,6.250645561522334
+T: test 2024-25,2024-11-01,5.48,Ridge - outside only,6.2142922874760504
+T: test 2024-25,2024-12-01,5.22,Ridge - outside only,5.669027974585146
+T: test 2024-25,2025-01-01,4.26,Ridge - outside only,6.429588010753784
+T: test 2024-25,2025-02-01,3.61,Ridge - outside only,6.3913020514899594
+T: test 2024-25,2025-03-01,3.34,Ridge - outside only,5.53736307727225
+T: test 2024-25,2025-04-01,3.16,Ridge - outside only,5.234193936720455
+T: test 2024-25,2025-05-01,2.82,Ridge - outside only,4.361414025964565
+T: test 2024-25,2025-06-01,2.1,Ridge - outside only,3.7863303594313615
+T: test 2024-25,2025-07-01,1.61,Ridge - outside only,3.664188549159793
+T: test 2024-25,2025-08-01,2.07,Ridge - outside only,3.3231336000240432
+T: test 2024-25,2025-09-01,1.44,Ridge - outside only,3.7712265690866875
+T: test 2024-25,2025-10-01,0.25,Ridge - outside only,3.3015624302660105
+T: test 2024-25,2025-11-01,0.71,Ridge - outside only,2.5812529505365367
+T: test 2024-25,2025-12-01,1.33,Ridge - outside only,3.3290008708764867
+T: test 2024-25,2024-01-01,5.1,Random Forest (extra) - outside only,5.529438321868405
+T: test 2024-25,2024-02-01,5.09,Random Forest (extra) - outside only,4.984140684444335
+T: test 2024-25,2024-03-01,4.85,Random Forest (extra) - outside only,5.735778898371065
+T: test 2024-25,2024-04-01,4.83,Random Forest (extra) - outside only,5.742047726200445
+T: test 2024-25,2024-05-01,4.8,Random Forest (extra) - outside only,5.130478125198074
+T: test 2024-25,2024-06-01,5.08,Random Forest (extra) - outside only,5.554221430376148
+T: test 2024-25,2024-07-01,3.6,Random Forest (extra) - outside only,5.632964594544096
+T: test 2024-25,2024-08-01,3.65,Random Forest (extra) - outside only,5.111641091755772
+T: test 2024-25,2024-09-01,5.49,Random Forest (extra) - outside only,4.965108471262923
+T: test 2024-25,2024-10-01,6.21,Random Forest (extra) - outside only,5.863329958597182
+T: test 2024-25,2024-11-01,5.48,Random Forest (extra) - outside only,5.451002630263
+T: test 2024-25,2024-12-01,5.22,Random Forest (extra) - outside only,5.445739673153965
+T: test 2024-25,2025-01-01,4.26,Random Forest (extra) - outside only,6.160496736863303
+T: test 2024-25,2025-02-01,3.61,Random Forest (extra) - outside only,5.5655645944388565
+T: test 2024-25,2025-03-01,3.34,Random Forest (extra) - outside only,4.935891541990598
+T: test 2024-25,2025-04-01,3.16,Random Forest (extra) - outside only,4.707514366768141
+T: test 2024-25,2025-05-01,2.82,Random Forest (extra) - outside only,4.069053630910069
+T: test 2024-25,2025-06-01,2.1,Random Forest (extra) - outside only,3.7518268834763977
+T: test 2024-25,2025-07-01,1.61,Random Forest (extra) - outside only,4.4021823748661975
+T: test 2024-25,2025-08-01,2.07,Random Forest (extra) - outside only,4.4359233444492014
+T: test 2024-25,2025-09-01,1.44,Random Forest (extra) - outside only,4.326582046474183
+T: test 2024-25,2025-10-01,0.25,Random Forest (extra) - outside only,4.263983995975027
+T: test 2024-25,2025-11-01,0.71,Random Forest (extra) - outside only,4.27276080714753
+T: test 2024-25,2025-12-01,1.33,Random Forest (extra) - outside only,4.273276378034976
+T: test 2024-25,2024-01-01,5.1,Neural net - outside only,4.641821721611161
+T: test 2024-25,2024-02-01,5.09,Neural net - outside only,4.345403833687368
+T: test 2024-25,2024-03-01,4.85,Neural net - outside only,4.953865440555834
+T: test 2024-25,2024-04-01,4.83,Neural net - outside only,5.237530571627714
+T: test 2024-25,2024-05-01,4.8,Neural net - outside only,5.316346875911882
+T: test 2024-25,2024-06-01,5.08,Neural net - outside only,5.626809503493639
+T: test 2024-25,2024-07-01,3.6,Neural net - outside only,5.855572867210447
+T: test 2024-25,2024-08-01,3.65,Neural net - outside only,4.785169566140859
+T: test 2024-25,2024-09-01,5.49,Neural net - outside only,4.660358322943508
+T: test 2024-25,2024-10-01,6.21,Neural net - outside only,5.9974367194595555
+T: test 2024-25,2024-11-01,5.48,Neural net - outside only,5.422057408764599
+T: test 2024-25,2024-12-01,5.22,Neural net - outside only,4.897831033165721
+T: test 2024-25,2025-01-01,4.26,Neural net - outside only,6.023515147159149
+T: test 2024-25,2025-02-01,3.61,Neural net - outside only,5.7719103725698515
+T: test 2024-25,2025-03-01,3.34,Neural net - outside only,4.83313909503886
+T: test 2024-25,2025-04-01,3.16,Neural net - outside only,4.659283289398372
+T: test 2024-25,2025-05-01,2.82,Neural net - outside only,3.6920997305712318
+T: test 2024-25,2025-06-01,2.1,Neural net - outside only,3.1172839491154276
+T: test 2024-25,2025-07-01,1.61,Neural net - outside only,2.465931028280171
+T: test 2024-25,2025-08-01,2.07,Neural net - outside only,2.5774376359869895
+T: test 2024-25,2025-09-01,1.44,Neural net - outside only,3.816412081722957
+T: test 2024-25,2025-10-01,0.25,Neural net - outside only,3.0663477329556645
+T: test 2024-25,2025-11-01,0.71,Neural net - outside only,2.6848437618865573
+T: test 2024-25,2025-12-01,1.33,Neural net - outside only,3.315910336289231
+T: test 2024-25,2024-01-01,5.1,Ridge - with CPI,5.374626230400737
+T: test 2024-25,2024-02-01,5.09,Ridge - with CPI,4.853147798085571
+T: test 2024-25,2024-03-01,4.85,Ridge - with CPI,5.315017793675119
+T: test 2024-25,2024-04-01,4.83,Ridge - with CPI,5.143917640275283
+T: test 2024-25,2024-05-01,4.8,Ridge - with CPI,5.104334889435488
+T: test 2024-25,2024-06-01,5.08,Ridge - with CPI,5.100986906167533
+T: test 2024-25,2024-07-01,3.6,Ridge - with CPI,5.210733079865796
+T: test 2024-25,2024-08-01,3.65,Ridge - with CPI,3.525668753050794
+T: test 2024-25,2024-09-01,5.49,Ridge - with CPI,3.9622112447972295
+T: test 2024-25,2024-10-01,6.21,Ridge - with CPI,5.904891897362932
+T: test 2024-25,2024-11-01,5.48,Ridge - with CPI,5.803028840237773
+T: test 2024-25,2024-12-01,5.22,Ridge - with CPI,4.907665962657001
+T: test 2024-25,2025-01-01,4.26,Ridge - with CPI,5.55249736901451
+T: test 2024-25,2025-02-01,3.61,Ridge - with CPI,4.881786896050853
+T: test 2024-25,2025-03-01,3.34,Ridge - with CPI,4.037500951039309
+T: test 2024-25,2025-04-01,3.16,Ridge - with CPI,3.8369895310364512
+T: test 2024-25,2025-05-01,2.82,Ridge - with CPI,3.4499372143873037
+T: test 2024-25,2025-06-01,2.1,Ridge - with CPI,3.1279446637072694
+T: test 2024-25,2025-07-01,1.61,Ridge - with CPI,2.78552636559398
+T: test 2024-25,2025-08-01,2.07,Ridge - with CPI,2.384436654678142
+T: test 2024-25,2025-09-01,1.44,Ridge - with CPI,2.9739628130624003
+T: test 2024-25,2025-10-01,0.25,Ridge - with CPI,2.0050085174724463
+T: test 2024-25,2025-11-01,0.71,Ridge - with CPI,0.8767665096627493
+T: test 2024-25,2025-12-01,1.33,Ridge - with CPI,1.8405659294373988
+T: test 2024-25,2024-01-01,5.1,Random Forest (extra) - with CPI,5.782065209154777
+T: test 2024-25,2024-02-01,5.09,Random Forest (extra) - with CPI,5.156465446854319
+T: test 2024-25,2024-03-01,4.85,Random Forest (extra) - with CPI,5.309205360815327
+T: test 2024-25,2024-04-01,4.83,Random Forest (extra) - with CPI,5.296595315874635
+T: test 2024-25,2024-05-01,4.8,Random Forest (extra) - with CPI,5.364529727390874
+T: test 2024-25,2024-06-01,5.08,Random Forest (extra) - with CPI,5.429924114089415
+T: test 2024-25,2024-07-01,3.6,Random Forest (extra) - with CPI,5.424269917709815
+T: test 2024-25,2024-08-01,3.65,Random Forest (extra) - with CPI,4.091925531868149
+T: test 2024-25,2024-09-01,5.49,Random Forest (extra) - with CPI,4.179596805052954
+T: test 2024-25,2024-10-01,6.21,Random Forest (extra) - with CPI,5.673449547431455
+T: test 2024-25,2024-11-01,5.48,Random Forest (extra) - with CPI,6.015624656464503
+T: test 2024-25,2024-12-01,5.22,Random Forest (extra) - with CPI,5.388376063528264
+T: test 2024-25,2025-01-01,4.26,Random Forest (extra) - with CPI,5.320587138833434
+T: test 2024-25,2025-02-01,3.61,Random Forest (extra) - with CPI,4.885365897215624
+T: test 2024-25,2025-03-01,3.34,Random Forest (extra) - with CPI,3.8104011167897287
+T: test 2024-25,2025-04-01,3.16,Random Forest (extra) - with CPI,3.594663288265056
+T: test 2024-25,2025-05-01,2.82,Random Forest (extra) - with CPI,3.514535801624517
+T: test 2024-25,2025-06-01,2.1,Random Forest (extra) - with CPI,3.3887568600847153
+T: test 2024-25,2025-07-01,1.61,Random Forest (extra) - with CPI,3.1362315463580557
+T: test 2024-25,2025-08-01,2.07,Random Forest (extra) - with CPI,3.1730886686108026
+T: test 2024-25,2025-09-01,1.44,Random Forest (extra) - with CPI,3.3177014059336773
+T: test 2024-25,2025-10-01,0.25,Random Forest (extra) - with CPI,3.2208168398839736
+T: test 2024-25,2025-11-01,0.71,Random Forest (extra) - with CPI,3.1671049366483204
+T: test 2024-25,2025-12-01,1.33,Random Forest (extra) - with CPI,3.1796427144260986
+T: test 2024-25,2024-01-01,5.1,Neural net - with CPI,5.257626167972915
+T: test 2024-25,2024-02-01,5.09,Neural net - with CPI,4.826502815022111
+T: test 2024-25,2024-03-01,4.85,Neural net - with CPI,5.393228447900508
+T: test 2024-25,2024-04-01,4.83,Neural net - with CPI,5.380705605549909
+T: test 2024-25,2024-05-01,4.8,Neural net - with CPI,5.398379864361471
+T: test 2024-25,2024-06-01,5.08,Neural net - with CPI,5.193902212950674
+T: test 2024-25,2024-07-01,3.6,Neural net - with CPI,5.483420997760512
+T: test 2024-25,2024-08-01,3.65,Neural net - with CPI,3.726813889072162
+T: test 2024-25,2024-09-01,5.49,Neural net - with CPI,4.34784516822802
+T: test 2024-25,2024-10-01,6.21,Neural net - with CPI,5.675947977548367
+T: test 2024-25,2024-11-01,5.48,Neural net - with CPI,5.407942518412052
+T: test 2024-25,2024-12-01,5.22,Neural net - with CPI,4.777071149370626
+T: test 2024-25,2025-01-01,4.26,Neural net - with CPI,5.011007746308496
+T: test 2024-25,2025-02-01,3.61,Neural net - with CPI,4.745107366963849
+T: test 2024-25,2025-03-01,3.34,Neural net - with CPI,3.758380902863812
+T: test 2024-25,2025-04-01,3.16,Neural net - with CPI,3.57605162976199
+T: test 2024-25,2025-05-01,2.82,Neural net - with CPI,3.028804699155943
+T: test 2024-25,2025-06-01,2.1,Neural net - with CPI,2.8706198172726665
+T: test 2024-25,2025-07-01,1.61,Neural net - with CPI,2.6966777244904283
+T: test 2024-25,2025-08-01,2.07,Neural net - with CPI,2.6818209996637767
+T: test 2024-25,2025-09-01,1.44,Neural net - with CPI,3.310598119968447
+T: test 2024-25,2025-10-01,0.25,Neural net - with CPI,2.4086420630984122
+T: test 2024-25,2025-11-01,0.71,Neural net - with CPI,1.7929001534113946
+T: test 2024-25,2025-12-01,1.33,Neural net - with CPI,2.4368234735434404
+C: expanding-window CV,2016-06-01,5.77,Naive (last value),5.76
+C: expanding-window CV,2016-07-01,6.07,Naive (last value),5.77
+C: expanding-window CV,2016-08-01,5.05,Naive (last value),6.07
+C: expanding-window CV,2016-09-01,4.39,Naive (last value),5.05
+C: expanding-window CV,2016-10-01,4.2,Naive (last value),4.39
+C: expanding-window CV,2016-11-01,3.63,Naive (last value),4.2
+C: expanding-window CV,2016-12-01,3.41,Naive (last value),3.63
+C: expanding-window CV,2017-01-01,3.17,Naive (last value),3.41
+C: expanding-window CV,2017-02-01,3.65,Naive (last value),3.17
+C: expanding-window CV,2017-03-01,3.89,Naive (last value),3.65
+C: expanding-window CV,2017-04-01,2.99,Naive (last value),3.89
+C: expanding-window CV,2017-05-01,2.18,Naive (last value),2.99
+C: expanding-window CV,2017-06-01,1.46,Naive (last value),2.18
+C: expanding-window CV,2017-07-01,2.36,Naive (last value),1.46
+C: expanding-window CV,2017-08-01,3.28,Naive (last value),2.36
+C: expanding-window CV,2017-09-01,3.28,Naive (last value),3.28
+C: expanding-window CV,2017-10-01,3.58,Naive (last value),3.28
+C: expanding-window CV,2017-11-01,4.88,Naive (last value),3.58
+C: expanding-window CV,2017-12-01,5.21,Naive (last value),4.88
+C: expanding-window CV,2018-01-01,5.07,Naive (last value),5.21
+C: expanding-window CV,2018-02-01,4.44,Naive (last value),5.07
+C: expanding-window CV,2018-03-01,4.28,Naive (last value),4.44
+C: expanding-window CV,2018-04-01,4.58,Naive (last value),4.28
+C: expanding-window CV,2018-05-01,4.87,Naive (last value),4.58
+C: expanding-window CV,2018-06-01,4.92,Naive (last value),4.87
+C: expanding-window CV,2018-07-01,4.17,Naive (last value),4.92
+C: expanding-window CV,2018-08-01,3.69,Naive (last value),4.17
+C: expanding-window CV,2018-09-01,3.7,Naive (last value),3.69
+C: expanding-window CV,2018-10-01,3.38,Naive (last value),3.7
+C: expanding-window CV,2018-11-01,2.33,Naive (last value),3.38
+C: expanding-window CV,2018-12-01,2.11,Naive (last value),2.33
+C: expanding-window CV,2019-01-01,1.97,Naive (last value),2.11
+C: expanding-window CV,2019-02-01,2.57,Naive (last value),1.97
+C: expanding-window CV,2019-03-01,2.86,Naive (last value),2.57
+C: expanding-window CV,2019-04-01,2.99,Naive (last value),2.86
+C: expanding-window CV,2019-05-01,3.05,Naive (last value),2.99
+C: expanding-window CV,2019-06-01,3.18,Naive (last value),3.05
+C: expanding-window CV,2019-07-01,3.15,Naive (last value),3.18
+C: expanding-window CV,2019-08-01,3.28,Naive (last value),3.15
+C: expanding-window CV,2019-09-01,3.99,Naive (last value),3.28
+C: expanding-window CV,2019-10-01,4.62,Naive (last value),3.99
+C: expanding-window CV,2019-11-01,5.54,Naive (last value),4.62
+C: expanding-window CV,2019-12-01,7.35,Naive (last value),5.54
+C: expanding-window CV,2020-01-01,7.59,Naive (last value),7.35
+C: expanding-window CV,2020-02-01,6.58,Naive (last value),7.59
+C: expanding-window CV,2020-03-01,5.84,Naive (last value),6.58
+C: expanding-window CV,2020-04-01,7.22,Naive (last value),5.84
+C: expanding-window CV,2020-05-01,6.27,Naive (last value),7.22
+C: expanding-window CV,2020-06-01,6.23,Naive (last value),6.27
+C: expanding-window CV,2020-07-01,6.73,Naive (last value),6.23
+C: expanding-window CV,2020-08-01,6.69,Naive (last value),6.73
+C: expanding-window CV,2020-09-01,7.27,Naive (last value),6.69
+C: expanding-window CV,2020-10-01,7.61,Naive (last value),7.27
+C: expanding-window CV,2020-11-01,6.93,Naive (last value),7.61
+C: expanding-window CV,2020-12-01,4.59,Naive (last value),6.93
+C: expanding-window CV,2021-01-01,4.06,Naive (last value),4.59
+C: expanding-window CV,2021-02-01,5.03,Naive (last value),4.06
+C: expanding-window CV,2021-03-01,5.52,Naive (last value),5.03
+C: expanding-window CV,2021-04-01,4.23,Naive (last value),5.52
+C: expanding-window CV,2021-05-01,6.3,Naive (last value),4.23
+C: expanding-window CV,2021-06-01,6.26,Naive (last value),6.3
+C: expanding-window CV,2021-07-01,5.59,Naive (last value),6.26
+C: expanding-window CV,2021-08-01,5.3,Naive (last value),5.59
+C: expanding-window CV,2021-09-01,4.35,Naive (last value),5.3
+C: expanding-window CV,2021-10-01,4.48,Naive (last value),4.35
+C: expanding-window CV,2021-11-01,4.91,Naive (last value),4.48
+C: expanding-window CV,2021-12-01,5.66,Naive (last value),4.91
+C: expanding-window CV,2022-01-01,6.01,Naive (last value),5.66
+C: expanding-window CV,2022-02-01,6.07,Naive (last value),6.01
+C: expanding-window CV,2022-03-01,6.95,Naive (last value),6.07
+C: expanding-window CV,2022-04-01,7.79,Naive (last value),6.95
+C: expanding-window CV,2022-05-01,7.04,Naive (last value),7.79
+C: expanding-window CV,2022-06-01,7.01,Naive (last value),7.04
+C: expanding-window CV,2022-07-01,6.71,Naive (last value),7.01
+C: expanding-window CV,2022-08-01,7.0,Naive (last value),6.71
+C: expanding-window CV,2022-09-01,7.41,Naive (last value),7.0
+C: expanding-window CV,2022-10-01,6.77,Naive (last value),7.41
+C: expanding-window CV,2022-11-01,5.88,Naive (last value),6.77
+C: expanding-window CV,2022-12-01,5.72,Naive (last value),5.88
+C: expanding-window CV,2023-01-01,6.52,Naive (last value),5.72
+C: expanding-window CV,2023-02-01,6.44,Naive (last value),6.52
+C: expanding-window CV,2023-03-01,5.66,Naive (last value),6.44
+C: expanding-window CV,2023-04-01,4.7,Naive (last value),5.66
+C: expanding-window CV,2023-05-01,4.31,Naive (last value),4.7
+C: expanding-window CV,2023-06-01,4.87,Naive (last value),4.31
+C: expanding-window CV,2023-07-01,7.44,Naive (last value),4.87
+C: expanding-window CV,2023-08-01,6.83,Naive (last value),7.44
+C: expanding-window CV,2023-09-01,5.02,Naive (last value),6.83
+C: expanding-window CV,2023-10-01,4.87,Naive (last value),5.02
+C: expanding-window CV,2023-11-01,5.55,Naive (last value),4.87
+C: expanding-window CV,2023-12-01,5.69,Naive (last value),5.55
+C: expanding-window CV,2024-01-01,5.1,Naive (last value),5.69
+C: expanding-window CV,2024-02-01,5.09,Naive (last value),5.1
+C: expanding-window CV,2024-03-01,4.85,Naive (last value),5.09
+C: expanding-window CV,2024-04-01,4.83,Naive (last value),4.85
+C: expanding-window CV,2024-05-01,4.8,Naive (last value),4.83
+C: expanding-window CV,2024-06-01,5.08,Naive (last value),4.8
+C: expanding-window CV,2024-07-01,3.6,Naive (last value),5.08
+C: expanding-window CV,2024-08-01,3.65,Naive (last value),3.6
+C: expanding-window CV,2024-09-01,5.49,Naive (last value),3.65
+C: expanding-window CV,2024-10-01,6.21,Naive (last value),5.49
+C: expanding-window CV,2024-11-01,5.48,Naive (last value),6.21
+C: expanding-window CV,2024-12-01,5.22,Naive (last value),5.48
+C: expanding-window CV,2025-01-01,4.26,Naive (last value),5.22
+C: expanding-window CV,2025-02-01,3.61,Naive (last value),4.26
+C: expanding-window CV,2025-03-01,3.34,Naive (last value),3.61
+C: expanding-window CV,2025-04-01,3.16,Naive (last value),3.34
+C: expanding-window CV,2025-05-01,2.82,Naive (last value),3.16
+C: expanding-window CV,2025-06-01,2.1,Naive (last value),2.82
+C: expanding-window CV,2025-07-01,1.61,Naive (last value),2.1
+C: expanding-window CV,2025-08-01,2.07,Naive (last value),1.61
+C: expanding-window CV,2025-09-01,1.44,Naive (last value),2.07
+C: expanding-window CV,2025-10-01,0.25,Naive (last value),1.44
+C: expanding-window CV,2025-11-01,0.71,Naive (last value),0.25
+C: expanding-window CV,2025-12-01,1.33,Naive (last value),0.71
+C: expanding-window CV,2016-06-01,5.77,ARIMA (auto order),5.76
+C: expanding-window CV,2016-07-01,6.07,ARIMA (auto order),5.77
+C: expanding-window CV,2016-08-01,5.05,ARIMA (auto order),6.07
+C: expanding-window CV,2016-09-01,4.39,ARIMA (auto order),5.050000000000001
+C: expanding-window CV,2016-10-01,4.2,ARIMA (auto order),4.39
+C: expanding-window CV,2016-11-01,3.63,ARIMA (auto order),4.2
+C: expanding-window CV,2016-12-01,3.41,ARIMA (auto order),3.63
+C: expanding-window CV,2017-01-01,3.17,ARIMA (auto order),3.41
+C: expanding-window CV,2017-02-01,3.65,ARIMA (auto order),3.17
+C: expanding-window CV,2017-03-01,3.89,ARIMA (auto order),3.65
+C: expanding-window CV,2017-04-01,2.99,ARIMA (auto order),3.89
+C: expanding-window CV,2017-05-01,2.18,ARIMA (auto order),2.99
+C: expanding-window CV,2017-06-01,1.46,ARIMA (auto order),2.18
+C: expanding-window CV,2017-07-01,2.36,ARIMA (auto order),1.46
+C: expanding-window CV,2017-08-01,3.28,ARIMA (auto order),2.36
+C: expanding-window CV,2017-09-01,3.28,ARIMA (auto order),3.28
+C: expanding-window CV,2017-10-01,3.58,ARIMA (auto order),3.28
+C: expanding-window CV,2017-11-01,4.88,ARIMA (auto order),3.58
+C: expanding-window CV,2017-12-01,5.21,ARIMA (auto order),4.88
+C: expanding-window CV,2018-01-01,5.07,ARIMA (auto order),5.21
+C: expanding-window CV,2018-02-01,4.44,ARIMA (auto order),5.07
+C: expanding-window CV,2018-03-01,4.28,ARIMA (auto order),4.44
+C: expanding-window CV,2018-04-01,4.58,ARIMA (auto order),4.28
+C: expanding-window CV,2018-05-01,4.87,ARIMA (auto order),4.668286535517765
+C: expanding-window CV,2018-06-01,4.92,ARIMA (auto order),4.930370477454766
+C: expanding-window CV,2018-07-01,4.17,ARIMA (auto order),4.916896237556649
+C: expanding-window CV,2018-08-01,3.69,ARIMA (auto order),3.946462703735702
+C: expanding-window CV,2018-09-01,3.7,ARIMA (auto order),3.613243716458858
+C: expanding-window CV,2018-10-01,3.38,ARIMA (auto order),3.725965139575703
+C: expanding-window CV,2018-11-01,2.33,ARIMA (auto order),3.276456685662997
+C: expanding-window CV,2018-12-01,2.11,ARIMA (auto order),2.046736598866147
+C: expanding-window CV,2019-01-01,1.97,ARIMA (auto order),2.128933995019452
+C: expanding-window CV,2019-02-01,2.57,ARIMA (auto order),1.9224329167230045
+C: expanding-window CV,2019-03-01,2.86,ARIMA (auto order),2.7638092437298125
+C: expanding-window CV,2019-04-01,2.99,ARIMA (auto order),2.888788766767117
+C: expanding-window CV,2019-05-01,3.05,ARIMA (auto order),3.020291336722309
+C: expanding-window CV,2019-06-01,3.18,ARIMA (auto order),3.0588914549716386
+C: expanding-window CV,2019-07-01,3.15,ARIMA (auto order),3.216246369105708
+C: expanding-window CV,2019-08-01,3.28,ARIMA (auto order),3.130173237603043
+C: expanding-window CV,2019-09-01,3.99,ARIMA (auto order),3.3248413952168403
+C: expanding-window CV,2019-10-01,4.62,ARIMA (auto order),4.189074180084998
+C: expanding-window CV,2019-11-01,5.54,ARIMA (auto order),4.748971050904469
+C: expanding-window CV,2019-12-01,7.35,ARIMA (auto order),5.776745699946296
+C: expanding-window CV,2020-01-01,7.59,ARIMA (auto order),7.820856586077676
+C: expanding-window CV,2020-02-01,6.58,ARIMA (auto order),7.520907327575477
+C: expanding-window CV,2020-03-01,5.84,ARIMA (auto order),6.298397456747752
+C: expanding-window CV,2020-04-01,7.22,ARIMA (auto order),5.682150712321068
+C: expanding-window CV,2020-05-01,6.27,ARIMA (auto order),7.838256163220269
+C: expanding-window CV,2020-06-01,6.23,ARIMA (auto order),5.639519467097785
+C: expanding-window CV,2020-07-01,6.73,ARIMA (auto order),6.467388820642743
+C: expanding-window CV,2020-08-01,6.69,ARIMA (auto order),6.835576652711671
+C: expanding-window CV,2020-09-01,7.27,ARIMA (auto order),6.631474328153568
+C: expanding-window CV,2020-10-01,7.61,ARIMA (auto order),7.526704239587253
+C: expanding-window CV,2020-11-01,6.93,ARIMA (auto order),7.643487102837643
+C: expanding-window CV,2020-12-01,4.59,ARIMA (auto order),6.643159278843687
+C: expanding-window CV,2021-01-01,4.06,ARIMA (auto order),3.764575565767008
+C: expanding-window CV,2021-02-01,5.03,ARIMA (auto order),4.178768450649724
+C: expanding-window CV,2021-03-01,5.52,ARIMA (auto order),5.372217638574751
+C: expanding-window CV,2021-04-01,4.23,ARIMA (auto order),5.579412425195647
+C: expanding-window CV,2021-05-01,6.3,ARIMA (auto order),3.6875004486542395
+C: expanding-window CV,2021-06-01,6.26,ARIMA (auto order),7.350294045047488
+C: expanding-window CV,2021-07-01,5.59,ARIMA (auto order),5.821672903532469
+C: expanding-window CV,2021-08-01,5.3,ARIMA (auto order),5.496861353965143
+C: expanding-window CV,2021-09-01,4.35,ARIMA (auto order),5.2208565193195655
+C: expanding-window CV,2021-10-01,4.48,ARIMA (auto order),3.999892603479697
+C: expanding-window CV,2021-11-01,4.91,ARIMA (auto order),4.673015895175475
+C: expanding-window CV,2021-12-01,5.66,ARIMA (auto order),5.005273889689241
+C: expanding-window CV,2022-01-01,6.01,ARIMA (auto order),5.92321724512537
+C: expanding-window CV,2022-02-01,6.07,ARIMA (auto order),6.044888967008889
+C: expanding-window CV,2022-03-01,6.95,ARIMA (auto order),6.049809724316378
+C: expanding-window CV,2022-04-01,7.79,ARIMA (auto order),7.0814929948488725
+C: expanding-window CV,2022-05-01,7.04,ARIMA (auto order),7.755496294780954
+C: expanding-window CV,2022-06-01,7.01,ARIMA (auto order),6.79054945024882
+C: expanding-window CV,2022-07-01,6.71,ARIMA (auto order),7.174067667196163
+C: expanding-window CV,2022-08-01,7.0,ARIMA (auto order),6.590403043131685
+C: expanding-window CV,2022-09-01,7.41,ARIMA (auto order),7.1530784581989115
+C: expanding-window CV,2022-10-01,6.77,ARIMA (auto order),7.382871346237412
+C: expanding-window CV,2022-11-01,5.88,ARIMA (auto order),6.617835763323759
+C: expanding-window CV,2022-12-01,5.72,ARIMA (auto order),5.858885546217338
+C: expanding-window CV,2023-01-01,6.52,ARIMA (auto order),5.825427202566402
+C: expanding-window CV,2023-02-01,6.44,ARIMA (auto order),6.665684368736184
+C: expanding-window CV,2023-03-01,5.66,ARIMA (auto order),6.278521261113434
+C: expanding-window CV,2023-04-01,4.7,ARIMA (auto order),5.591668863984523
+C: expanding-window CV,2023-05-01,4.31,ARIMA (auto order),4.653018755205339
+C: expanding-window CV,2023-06-01,4.87,ARIMA (auto order),4.406821529728246
+C: expanding-window CV,2023-07-01,7.44,ARIMA (auto order),5.011159223435735
+C: expanding-window CV,2023-08-01,6.83,ARIMA (auto order),7.782678699103006
+C: expanding-window CV,2023-09-01,5.02,ARIMA (auto order),6.236782210102464
+C: expanding-window CV,2023-10-01,4.87,ARIMA (auto order),4.974982141581325
+C: expanding-window CV,2023-11-01,5.55,ARIMA (auto order),5.0655232843466935
+C: expanding-window CV,2023-12-01,5.69,ARIMA (auto order),5.653042242398425
+C: expanding-window CV,2024-01-01,5.1,ARIMA (auto order),5.611304554889532
+C: expanding-window CV,2024-02-01,5.09,ARIMA (auto order),4.941938313512292
+C: expanding-window CV,2024-03-01,4.85,ARIMA (auto order),5.263564104183728
+C: expanding-window CV,2024-04-01,4.83,ARIMA (auto order),4.805622470607286
+C: expanding-window CV,2024-05-01,4.8,ARIMA (auto order),4.897458874938901
+C: expanding-window CV,2024-06-01,5.08,ARIMA (auto order),4.8000313194661075
+C: expanding-window CV,2024-07-01,3.6,ARIMA (auto order),5.144170474603049
+C: expanding-window CV,2024-08-01,3.65,ARIMA (auto order),3.2246857081902274
+C: expanding-window CV,2024-09-01,5.49,ARIMA (auto order),4.100195593005295
+C: expanding-window CV,2024-10-01,6.21,ARIMA (auto order),5.838161607143529
+C: expanding-window CV,2024-11-01,5.48,ARIMA (auto order),5.804620361044434
+C: expanding-window CV,2024-12-01,5.22,ARIMA (auto order),5.121753955586159
+C: expanding-window CV,2025-01-01,4.26,ARIMA (auto order),5.385891217935236
+C: expanding-window CV,2025-02-01,3.61,ARIMA (auto order),4.147944407274127
+C: expanding-window CV,2025-03-01,3.34,ARIMA (auto order),3.7673727539703252
+C: expanding-window CV,2025-04-01,3.16,ARIMA (auto order),3.4801165419092497
+C: expanding-window CV,2025-05-01,2.82,ARIMA (auto order),3.2048160019182266
+C: expanding-window CV,2025-06-01,2.1,ARIMA (auto order),2.8064706608002887
+C: expanding-window CV,2025-07-01,1.61,ARIMA (auto order),2.0590987877397873
+C: expanding-window CV,2025-08-01,2.07,ARIMA (auto order),1.7275363078207915
+C: expanding-window CV,2025-09-01,1.44,ARIMA (auto order),2.3065444869431677
+C: expanding-window CV,2025-10-01,0.25,ARIMA (auto order),1.178839609408346
+C: expanding-window CV,2025-11-01,0.71,ARIMA (auto order),0.2026473128010117
+C: expanding-window CV,2025-12-01,1.33,ARIMA (auto order),1.1548088841771984
+C: expanding-window CV,2016-06-01,5.77,Ridge - outside only,5.691011544566976
+C: expanding-window CV,2016-07-01,6.07,Ridge - outside only,5.629434032244795
+C: expanding-window CV,2016-08-01,5.05,Ridge - outside only,5.590693457234042
+C: expanding-window CV,2016-09-01,4.39,Ridge - outside only,5.608787143091489
+C: expanding-window CV,2016-10-01,4.2,Ridge - outside only,5.595525920098415
+C: expanding-window CV,2016-11-01,3.63,Ridge - outside only,5.568440205802111
+C: expanding-window CV,2016-12-01,3.41,Ridge - outside only,5.614640590696011
+C: expanding-window CV,2017-01-01,3.17,Ridge - outside only,5.73454340890848
+C: expanding-window CV,2017-02-01,3.65,Ridge - outside only,6.074664015085791
+C: expanding-window CV,2017-03-01,3.89,Ridge - outside only,6.271473731047103
+C: expanding-window CV,2017-04-01,2.99,Ridge - outside only,6.243794605161034
+C: expanding-window CV,2017-05-01,2.18,Ridge - outside only,6.1691812660635845
+C: expanding-window CV,2017-06-01,1.46,Ridge - outside only,5.7120726703357345
+C: expanding-window CV,2017-07-01,2.36,Ridge - outside only,5.286338252622072
+C: expanding-window CV,2017-08-01,3.28,Ridge - outside only,5.4154843203373915
+C: expanding-window CV,2017-09-01,3.28,Ridge - outside only,5.693820857964861
+C: expanding-window CV,2017-10-01,3.58,Ridge - outside only,5.650885753032235
+C: expanding-window CV,2017-11-01,4.88,Ridge - outside only,5.612358121015311
+C: expanding-window CV,2017-12-01,5.21,Ridge - outside only,5.776173330352744
+C: expanding-window CV,2018-01-01,5.07,Ridge - outside only,5.663507304267175
+C: expanding-window CV,2018-02-01,4.44,Ridge - outside only,5.715104377332864
+C: expanding-window CV,2018-03-01,4.28,Ridge - outside only,5.491255538260956
+C: expanding-window CV,2018-04-01,4.58,Ridge - outside only,5.416841665351487
+C: expanding-window CV,2018-05-01,4.87,Ridge - outside only,3.6751511078510535
+C: expanding-window CV,2018-06-01,4.92,Ridge - outside only,4.428380833324385
+C: expanding-window CV,2018-07-01,4.17,Ridge - outside only,4.549263468037005
+C: expanding-window CV,2018-08-01,3.69,Ridge - outside only,4.100532545249511
+C: expanding-window CV,2018-09-01,3.7,Ridge - outside only,4.044295590476797
+C: expanding-window CV,2018-10-01,3.38,Ridge - outside only,5.130215710087332
+C: expanding-window CV,2018-11-01,2.33,Ridge - outside only,5.0102205765933805
+C: expanding-window CV,2018-12-01,2.11,Ridge - outside only,4.406079826774413
+C: expanding-window CV,2019-01-01,1.97,Ridge - outside only,4.696999102171374
+C: expanding-window CV,2019-02-01,2.57,Ridge - outside only,5.128160385817328
+C: expanding-window CV,2019-03-01,2.86,Ridge - outside only,5.403586715673634
+C: expanding-window CV,2019-04-01,2.99,Ridge - outside only,5.366432997784447
+C: expanding-window CV,2019-05-01,3.05,Ridge - outside only,5.401785584973165
+C: expanding-window CV,2019-06-01,3.18,Ridge - outside only,5.338690404829649
+C: expanding-window CV,2019-07-01,3.15,Ridge - outside only,4.795387893762757
+C: expanding-window CV,2019-08-01,3.28,Ridge - outside only,4.514225020029594
+C: expanding-window CV,2019-09-01,3.99,Ridge - outside only,4.969132870518972
+C: expanding-window CV,2019-10-01,4.62,Ridge - outside only,4.7940947190878465
+C: expanding-window CV,2019-11-01,5.54,Ridge - outside only,4.593491394018987
+C: expanding-window CV,2019-12-01,7.35,Ridge - outside only,4.978094021060656
+C: expanding-window CV,2020-01-01,7.59,Ridge - outside only,5.293126423346051
+C: expanding-window CV,2020-02-01,6.58,Ridge - outside only,5.216971605796571
+C: expanding-window CV,2020-03-01,5.84,Ridge - outside only,4.729059773099009
+C: expanding-window CV,2020-04-01,7.22,Ridge - outside only,4.430685083881517
+C: expanding-window CV,2020-05-01,6.27,Ridge - outside only,4.26863493246495
+C: expanding-window CV,2020-06-01,6.23,Ridge - outside only,4.301590677340706
+C: expanding-window CV,2020-07-01,6.73,Ridge - outside only,4.472420141443683
+C: expanding-window CV,2020-08-01,6.69,Ridge - outside only,4.605182611485239
+C: expanding-window CV,2020-09-01,7.27,Ridge - outside only,4.513324690423857
+C: expanding-window CV,2020-10-01,7.61,Ridge - outside only,4.565697624033092
+C: expanding-window CV,2020-11-01,6.93,Ridge - outside only,4.830105932584427
+C: expanding-window CV,2020-12-01,4.59,Ridge - outside only,4.704700227335431
+C: expanding-window CV,2021-01-01,4.06,Ridge - outside only,4.433746842438304
+C: expanding-window CV,2021-02-01,5.03,Ridge - outside only,3.971642733653918
+C: expanding-window CV,2021-03-01,5.52,Ridge - outside only,4.063335282500854
+C: expanding-window CV,2021-04-01,4.23,Ridge - outside only,4.062165878564702
+C: expanding-window CV,2021-05-01,6.3,Ridge - outside only,4.047847195655948
+C: expanding-window CV,2021-06-01,6.26,Ridge - outside only,3.8058595892469027
+C: expanding-window CV,2021-07-01,5.59,Ridge - outside only,3.4113036759147053
+C: expanding-window CV,2021-08-01,5.3,Ridge - outside only,2.8317852513541295
+C: expanding-window CV,2021-09-01,4.35,Ridge - outside only,2.6515220470664396
+C: expanding-window CV,2021-10-01,4.48,Ridge - outside only,2.7070249447208052
+C: expanding-window CV,2021-11-01,4.91,Ridge - outside only,2.840264095688859
+C: expanding-window CV,2021-12-01,5.66,Ridge - outside only,3.0391198119140586
+C: expanding-window CV,2022-01-01,6.01,Ridge - outside only,3.4344493960051063
+C: expanding-window CV,2022-02-01,6.07,Ridge - outside only,3.709072926806954
+C: expanding-window CV,2022-03-01,6.95,Ridge - outside only,4.826173269832869
+C: expanding-window CV,2022-04-01,7.79,Ridge - outside only,4.92294942320686
+C: expanding-window CV,2022-05-01,7.04,Ridge - outside only,4.903487177638515
+C: expanding-window CV,2022-06-01,7.01,Ridge - outside only,4.907090540105266
+C: expanding-window CV,2022-07-01,6.71,Ridge - outside only,4.905417496287449
+C: expanding-window CV,2022-08-01,7.0,Ridge - outside only,4.8790262530157165
+C: expanding-window CV,2022-09-01,7.41,Ridge - outside only,4.8125974188929375
+C: expanding-window CV,2022-10-01,6.77,Ridge - outside only,4.788004997328553
+C: expanding-window CV,2022-11-01,5.88,Ridge - outside only,4.756273154933341
+C: expanding-window CV,2022-12-01,5.72,Ridge - outside only,4.652592948148224
+C: expanding-window CV,2023-01-01,6.52,Ridge - outside only,4.538513760931465
+C: expanding-window CV,2023-02-01,6.44,Ridge - outside only,4.560137968396593
+C: expanding-window CV,2023-03-01,5.66,Ridge - outside only,4.6064712429446075
+C: expanding-window CV,2023-04-01,4.7,Ridge - outside only,4.647615548343837
+C: expanding-window CV,2023-05-01,4.31,Ridge - outside only,4.721521204067337
+C: expanding-window CV,2023-06-01,4.87,Ridge - outside only,4.6842235080683094
+C: expanding-window CV,2023-07-01,7.44,Ridge - outside only,4.7311195966774955
+C: expanding-window CV,2023-08-01,6.83,Ridge - outside only,4.965552678564913
+C: expanding-window CV,2023-09-01,5.02,Ridge - outside only,5.1221837144443425
+C: expanding-window CV,2023-10-01,4.87,Ridge - outside only,4.933641772539669
+C: expanding-window CV,2023-11-01,5.55,Ridge - outside only,4.942028110301341
+C: expanding-window CV,2023-12-01,5.69,Ridge - outside only,4.960272028777573
+C: expanding-window CV,2024-01-01,5.1,Ridge - outside only,4.937973030098518
+C: expanding-window CV,2024-02-01,5.09,Ridge - outside only,4.990079030152981
+C: expanding-window CV,2024-03-01,4.85,Ridge - outside only,5.486968303910433
+C: expanding-window CV,2024-04-01,4.83,Ridge - outside only,5.5378379644601345
+C: expanding-window CV,2024-05-01,4.8,Ridge - outside only,5.60983671920296
+C: expanding-window CV,2024-06-01,5.08,Ridge - outside only,5.892071280813464
+C: expanding-window CV,2024-07-01,3.6,Ridge - outside only,6.044413033724359
+C: expanding-window CV,2024-08-01,3.65,Ridge - outside only,5.293728745133427
+C: expanding-window CV,2024-09-01,5.49,Ridge - outside only,5.1503976157112
+C: expanding-window CV,2024-10-01,6.21,Ridge - outside only,6.236624686349674
+C: expanding-window CV,2024-11-01,5.48,Ridge - outside only,6.190034341169878
+C: expanding-window CV,2024-12-01,5.22,Ridge - outside only,5.649773915429903
+C: expanding-window CV,2025-01-01,4.26,Ridge - outside only,6.419924509228733
+C: expanding-window CV,2025-02-01,3.61,Ridge - outside only,6.3875071664959835
+C: expanding-window CV,2025-03-01,3.34,Ridge - outside only,5.538134324136422
+C: expanding-window CV,2025-04-01,3.16,Ridge - outside only,5.231640963051612
+C: expanding-window CV,2025-05-01,2.82,Ridge - outside only,4.3650980831007
+C: expanding-window CV,2025-06-01,2.1,Ridge - outside only,3.7968928220768854
+C: expanding-window CV,2025-07-01,1.61,Ridge - outside only,3.6713910351642185
+C: expanding-window CV,2025-08-01,2.07,Ridge - outside only,3.3286464358595405
+C: expanding-window CV,2025-09-01,1.44,Ridge - outside only,3.7749504660086846
+C: expanding-window CV,2025-10-01,0.25,Ridge - outside only,3.303008559113544
+C: expanding-window CV,2025-11-01,0.71,Ridge - outside only,2.5828182512461533
+C: expanding-window CV,2025-12-01,1.33,Ridge - outside only,3.328638956286144
+C: expanding-window CV,2016-06-01,5.77,Random Forest (extra) - outside only,6.078858768037521
+C: expanding-window CV,2016-07-01,6.07,Random Forest (extra) - outside only,5.399760825147078
+C: expanding-window CV,2016-08-01,5.05,Random Forest (extra) - outside only,5.264388411727164
+C: expanding-window CV,2016-09-01,4.39,Random Forest (extra) - outside only,5.418583530774785
+C: expanding-window CV,2016-10-01,4.2,Random Forest (extra) - outside only,5.482000574425577
+C: expanding-window CV,2016-11-01,3.63,Random Forest (extra) - outside only,4.9163391927516935
+C: expanding-window CV,2016-12-01,3.41,Random Forest (extra) - outside only,4.968351086691087
+C: expanding-window CV,2017-01-01,3.17,Random Forest (extra) - outside only,4.885660634920635
+C: expanding-window CV,2017-02-01,3.65,Random Forest (extra) - outside only,5.098397162698414
+C: expanding-window CV,2017-03-01,3.89,Random Forest (extra) - outside only,5.5894955383505405
+C: expanding-window CV,2017-04-01,2.99,Random Forest (extra) - outside only,6.017990974858477
+C: expanding-window CV,2017-05-01,2.18,Random Forest (extra) - outside only,5.531908769841271
+C: expanding-window CV,2017-06-01,1.46,Random Forest (extra) - outside only,5.5034590277777795
+C: expanding-window CV,2017-07-01,2.36,Random Forest (extra) - outside only,5.230808829365081
+C: expanding-window CV,2017-08-01,3.28,Random Forest (extra) - outside only,5.104987832722834
+C: expanding-window CV,2017-09-01,3.28,Random Forest (extra) - outside only,5.72860247557998
+C: expanding-window CV,2017-10-01,3.58,Random Forest (extra) - outside only,5.332944768148519
+C: expanding-window CV,2017-11-01,4.88,Random Forest (extra) - outside only,5.7830467811355355
+C: expanding-window CV,2017-12-01,5.21,Random Forest (extra) - outside only,5.821042098595853
+C: expanding-window CV,2018-01-01,5.07,Random Forest (extra) - outside only,5.919281324786332
+C: expanding-window CV,2018-02-01,4.44,Random Forest (extra) - outside only,5.984275392246644
+C: expanding-window CV,2018-03-01,4.28,Random Forest (extra) - outside only,5.079036468253969
+C: expanding-window CV,2018-04-01,4.58,Random Forest (extra) - outside only,5.0598148611111124
+C: expanding-window CV,2018-05-01,4.87,Random Forest (extra) - outside only,3.9586099725274733
+C: expanding-window CV,2018-06-01,4.92,Random Forest (extra) - outside only,4.0766112632542875
+C: expanding-window CV,2018-07-01,4.17,Random Forest (extra) - outside only,3.926868992535242
+C: expanding-window CV,2018-08-01,3.69,Random Forest (extra) - outside only,3.7174351046176017
+C: expanding-window CV,2018-09-01,3.7,Random Forest (extra) - outside only,3.621411388195136
+C: expanding-window CV,2018-10-01,3.38,Random Forest (extra) - outside only,3.5637225924075904
+C: expanding-window CV,2018-11-01,2.33,Random Forest (extra) - outside only,4.465530737595735
+C: expanding-window CV,2018-12-01,2.11,Random Forest (extra) - outside only,4.947194018759017
+C: expanding-window CV,2019-01-01,1.97,Random Forest (extra) - outside only,4.847282766955266
+C: expanding-window CV,2019-02-01,2.57,Random Forest (extra) - outside only,4.750548024891774
+C: expanding-window CV,2019-03-01,2.86,Random Forest (extra) - outside only,5.622383534104785
+C: expanding-window CV,2019-04-01,2.99,Random Forest (extra) - outside only,6.057723748196247
+C: expanding-window CV,2019-05-01,3.05,Random Forest (extra) - outside only,6.1842738582251044
+C: expanding-window CV,2019-06-01,3.18,Random Forest (extra) - outside only,6.157118311688309
+C: expanding-window CV,2019-07-01,3.15,Random Forest (extra) - outside only,5.19669105913286
+C: expanding-window CV,2019-08-01,3.28,Random Forest (extra) - outside only,4.954287681878451
+C: expanding-window CV,2019-09-01,3.99,Random Forest (extra) - outside only,4.825736390812064
+C: expanding-window CV,2019-10-01,4.62,Random Forest (extra) - outside only,4.868022922197346
+C: expanding-window CV,2019-11-01,5.54,Random Forest (extra) - outside only,4.852736502367174
+C: expanding-window CV,2019-12-01,7.35,Random Forest (extra) - outside only,4.8611935378811095
+C: expanding-window CV,2020-01-01,7.59,Random Forest (extra) - outside only,4.746276757578078
+C: expanding-window CV,2020-02-01,6.58,Random Forest (extra) - outside only,4.88345383279002
+C: expanding-window CV,2020-03-01,5.84,Random Forest (extra) - outside only,4.773398655422452
+C: expanding-window CV,2020-04-01,7.22,Random Forest (extra) - outside only,4.750379521151717
+C: expanding-window CV,2020-05-01,6.27,Random Forest (extra) - outside only,4.598096998252356
+C: expanding-window CV,2020-06-01,6.23,Random Forest (extra) - outside only,4.523800453759778
+C: expanding-window CV,2020-07-01,6.73,Random Forest (extra) - outside only,4.600938706640862
+C: expanding-window CV,2020-08-01,6.69,Random Forest (extra) - outside only,4.799229966963441
+C: expanding-window CV,2020-09-01,7.27,Random Forest (extra) - outside only,4.666941039801526
+C: expanding-window CV,2020-10-01,7.61,Random Forest (extra) - outside only,4.717935891759117
+C: expanding-window CV,2020-11-01,6.93,Random Forest (extra) - outside only,5.334463782657557
+C: expanding-window CV,2020-12-01,4.59,Random Forest (extra) - outside only,4.586702291289346
+C: expanding-window CV,2021-01-01,4.06,Random Forest (extra) - outside only,4.573969101020726
+C: expanding-window CV,2021-02-01,5.03,Random Forest (extra) - outside only,4.369011679246665
+C: expanding-window CV,2021-03-01,5.52,Random Forest (extra) - outside only,4.179794131964606
+C: expanding-window CV,2021-04-01,4.23,Random Forest (extra) - outside only,4.2720195183295155
+C: expanding-window CV,2021-05-01,6.3,Random Forest (extra) - outside only,4.455630922834997
+C: expanding-window CV,2021-06-01,6.26,Random Forest (extra) - outside only,4.256684949554809
+C: expanding-window CV,2021-07-01,5.59,Random Forest (extra) - outside only,4.284523130305995
+C: expanding-window CV,2021-08-01,5.3,Random Forest (extra) - outside only,2.7635364814800507
+C: expanding-window CV,2021-09-01,4.35,Random Forest (extra) - outside only,2.557525695044264
+C: expanding-window CV,2021-10-01,4.48,Random Forest (extra) - outside only,2.5767639273674967
+C: expanding-window CV,2021-11-01,4.91,Random Forest (extra) - outside only,2.6793167724853406
+C: expanding-window CV,2021-12-01,5.66,Random Forest (extra) - outside only,3.0137665762354935
+C: expanding-window CV,2022-01-01,6.01,Random Forest (extra) - outside only,3.44042657106782
+C: expanding-window CV,2022-02-01,6.07,Random Forest (extra) - outside only,4.0569841991342
+C: expanding-window CV,2022-03-01,6.95,Random Forest (extra) - outside only,5.778052096490055
+C: expanding-window CV,2022-04-01,7.79,Random Forest (extra) - outside only,6.179357478771226
+C: expanding-window CV,2022-05-01,7.04,Random Forest (extra) - outside only,6.167839613580859
+C: expanding-window CV,2022-06-01,7.01,Random Forest (extra) - outside only,6.232229548784546
+C: expanding-window CV,2022-07-01,6.71,Random Forest (extra) - outside only,6.251465858308354
+C: expanding-window CV,2022-08-01,7.0,Random Forest (extra) - outside only,6.208372137723384
+C: expanding-window CV,2022-09-01,7.41,Random Forest (extra) - outside only,5.014216998018205
+C: expanding-window CV,2022-10-01,6.77,Random Forest (extra) - outside only,4.952768422843381
+C: expanding-window CV,2022-11-01,5.88,Random Forest (extra) - outside only,4.999735073553782
+C: expanding-window CV,2022-12-01,5.72,Random Forest (extra) - outside only,3.9748230117018877
+C: expanding-window CV,2023-01-01,6.52,Random Forest (extra) - outside only,3.106611929130113
+C: expanding-window CV,2023-02-01,6.44,Random Forest (extra) - outside only,3.3914261796559813
+C: expanding-window CV,2023-03-01,5.66,Random Forest (extra) - outside only,3.681170339281942
+C: expanding-window CV,2023-04-01,4.7,Random Forest (extra) - outside only,4.105011187930331
+C: expanding-window CV,2023-05-01,4.31,Random Forest (extra) - outside only,4.2887682169090535
+C: expanding-window CV,2023-06-01,4.87,Random Forest (extra) - outside only,3.967265766511328
+C: expanding-window CV,2023-07-01,7.44,Random Forest (extra) - outside only,4.570423388921062
+C: expanding-window CV,2023-08-01,6.83,Random Forest (extra) - outside only,5.379546429046699
+C: expanding-window CV,2023-09-01,5.02,Random Forest (extra) - outside only,5.361735077212575
+C: expanding-window CV,2023-10-01,4.87,Random Forest (extra) - outside only,4.871423766826536
+C: expanding-window CV,2023-11-01,5.55,Random Forest (extra) - outside only,4.6166362948342865
+C: expanding-window CV,2023-12-01,5.69,Random Forest (extra) - outside only,5.3270970901023835
+C: expanding-window CV,2024-01-01,5.1,Random Forest (extra) - outside only,5.11413901500631
+C: expanding-window CV,2024-02-01,5.09,Random Forest (extra) - outside only,4.9058743641985565
+C: expanding-window CV,2024-03-01,4.85,Random Forest (extra) - outside only,5.800201862542588
+C: expanding-window CV,2024-04-01,4.83,Random Forest (extra) - outside only,5.808479105404646
+C: expanding-window CV,2024-05-01,4.8,Random Forest (extra) - outside only,5.13225207087599
+C: expanding-window CV,2024-06-01,5.08,Random Forest (extra) - outside only,5.3847092191210315
+C: expanding-window CV,2024-07-01,3.6,Random Forest (extra) - outside only,5.4923254176433325
+C: expanding-window CV,2024-08-01,3.65,Random Forest (extra) - outside only,5.085244111804824
+C: expanding-window CV,2024-09-01,5.49,Random Forest (extra) - outside only,4.956996595441397
+C: expanding-window CV,2024-10-01,6.21,Random Forest (extra) - outside only,5.762410374329042
+C: expanding-window CV,2024-11-01,5.48,Random Forest (extra) - outside only,5.292535437466625
+C: expanding-window CV,2024-12-01,5.22,Random Forest (extra) - outside only,5.287903939941036
+C: expanding-window CV,2025-01-01,4.26,Random Forest (extra) - outside only,6.017571195778859
+C: expanding-window CV,2025-02-01,3.61,Random Forest (extra) - outside only,5.5599895888967135
+C: expanding-window CV,2025-03-01,3.34,Random Forest (extra) - outside only,5.005321037400373
+C: expanding-window CV,2025-04-01,3.16,Random Forest (extra) - outside only,4.752234144926857
+C: expanding-window CV,2025-05-01,2.82,Random Forest (extra) - outside only,4.068181831705435
+C: expanding-window CV,2025-06-01,2.1,Random Forest (extra) - outside only,3.7387020033775658
+C: expanding-window CV,2025-07-01,1.61,Random Forest (extra) - outside only,4.371105495048883
+C: expanding-window CV,2025-08-01,2.07,Random Forest (extra) - outside only,4.40418584440701
+C: expanding-window CV,2025-09-01,1.44,Random Forest (extra) - outside only,4.307468374930911
+C: expanding-window CV,2025-10-01,0.25,Random Forest (extra) - outside only,4.241619831904276
+C: expanding-window CV,2025-11-01,0.71,Random Forest (extra) - outside only,4.232893534663505
+C: expanding-window CV,2025-12-01,1.33,Random Forest (extra) - outside only,4.260334524923246
+C: expanding-window CV,2016-06-01,5.77,Neural net - outside only,6.219347256227818
+C: expanding-window CV,2016-07-01,6.07,Neural net - outside only,6.102788375864584
+C: expanding-window CV,2016-08-01,5.05,Neural net - outside only,5.897746539642383
+C: expanding-window CV,2016-09-01,4.39,Neural net - outside only,5.643699863202518
+C: expanding-window CV,2016-10-01,4.2,Neural net - outside only,5.136354241074255
+C: expanding-window CV,2016-11-01,3.63,Neural net - outside only,5.502259106404448
+C: expanding-window CV,2016-12-01,3.41,Neural net - outside only,5.494187688734227
+C: expanding-window CV,2017-01-01,3.17,Neural net - outside only,6.166027250750525
+C: expanding-window CV,2017-02-01,3.65,Neural net - outside only,6.440518831508988
+C: expanding-window CV,2017-03-01,3.89,Neural net - outside only,6.166300170819925
+C: expanding-window CV,2017-04-01,2.99,Neural net - outside only,5.508033967635687
+C: expanding-window CV,2017-05-01,2.18,Neural net - outside only,5.262436887436954
+C: expanding-window CV,2017-06-01,1.46,Neural net - outside only,4.628831423840726
+C: expanding-window CV,2017-07-01,2.36,Neural net - outside only,4.3811336035095625
+C: expanding-window CV,2017-08-01,3.28,Neural net - outside only,5.57392001930742
+C: expanding-window CV,2017-09-01,3.28,Neural net - outside only,5.586898246062358
+C: expanding-window CV,2017-10-01,3.58,Neural net - outside only,5.331630866983665
+C: expanding-window CV,2017-11-01,4.88,Neural net - outside only,5.59006197918139
+C: expanding-window CV,2017-12-01,5.21,Neural net - outside only,5.650309842225971
+C: expanding-window CV,2018-01-01,5.07,Neural net - outside only,5.3237453258600915
+C: expanding-window CV,2018-02-01,4.44,Neural net - outside only,4.70307873600649
+C: expanding-window CV,2018-03-01,4.28,Neural net - outside only,4.54714239682853
+C: expanding-window CV,2018-04-01,4.58,Neural net - outside only,5.304003344098732
+C: expanding-window CV,2018-05-01,4.87,Neural net - outside only,4.3292187526993295
+C: expanding-window CV,2018-06-01,4.92,Neural net - outside only,4.66273347774501
+C: expanding-window CV,2018-07-01,4.17,Neural net - outside only,5.0645601911305755
+C: expanding-window CV,2018-08-01,3.69,Neural net - outside only,4.718710360754904
+C: expanding-window CV,2018-09-01,3.7,Neural net - outside only,4.194272136460376
+C: expanding-window CV,2018-10-01,3.38,Neural net - outside only,4.97782937467151
+C: expanding-window CV,2018-11-01,2.33,Neural net - outside only,5.667195975431084
+C: expanding-window CV,2018-12-01,2.11,Neural net - outside only,4.233529583879975
+C: expanding-window CV,2019-01-01,1.97,Neural net - outside only,3.686379739572518
+C: expanding-window CV,2019-02-01,2.57,Neural net - outside only,4.9110722134202645
+C: expanding-window CV,2019-03-01,2.86,Neural net - outside only,5.39139954798051
+C: expanding-window CV,2019-04-01,2.99,Neural net - outside only,5.062611267870532
+C: expanding-window CV,2019-05-01,3.05,Neural net - outside only,4.920277509642357
+C: expanding-window CV,2019-06-01,3.18,Neural net - outside only,5.046020468606886
+C: expanding-window CV,2019-07-01,3.15,Neural net - outside only,4.77566733227098
+C: expanding-window CV,2019-08-01,3.28,Neural net - outside only,4.265135074352511
+C: expanding-window CV,2019-09-01,3.99,Neural net - outside only,4.545044570230675
+C: expanding-window CV,2019-10-01,4.62,Neural net - outside only,4.619742641015697
+C: expanding-window CV,2019-11-01,5.54,Neural net - outside only,4.996439217943231
+C: expanding-window CV,2019-12-01,7.35,Neural net - outside only,4.886531363228852
+C: expanding-window CV,2020-01-01,7.59,Neural net - outside only,5.0775012986424946
+C: expanding-window CV,2020-02-01,6.58,Neural net - outside only,5.220801272822835
+C: expanding-window CV,2020-03-01,5.84,Neural net - outside only,4.996528204372556
+C: expanding-window CV,2020-04-01,7.22,Neural net - outside only,3.4892102466844532
+C: expanding-window CV,2020-05-01,6.27,Neural net - outside only,3.8469852867736205
+C: expanding-window CV,2020-06-01,6.23,Neural net - outside only,3.588896111109092
+C: expanding-window CV,2020-07-01,6.73,Neural net - outside only,3.645110822432102
+C: expanding-window CV,2020-08-01,6.69,Neural net - outside only,3.490504930426066
+C: expanding-window CV,2020-09-01,7.27,Neural net - outside only,3.003490390403603
+C: expanding-window CV,2020-10-01,7.61,Neural net - outside only,4.104766583000346
+C: expanding-window CV,2020-11-01,6.93,Neural net - outside only,4.515336765310359
+C: expanding-window CV,2020-12-01,4.59,Neural net - outside only,4.742545014406085
+C: expanding-window CV,2021-01-01,4.06,Neural net - outside only,3.474600255803425
+C: expanding-window CV,2021-02-01,5.03,Neural net - outside only,2.9556560934417853
+C: expanding-window CV,2021-03-01,5.52,Neural net - outside only,3.514605429747158
+C: expanding-window CV,2021-04-01,4.23,Neural net - outside only,4.598411643377909
+C: expanding-window CV,2021-05-01,6.3,Neural net - outside only,6.414379806346248
+C: expanding-window CV,2021-06-01,6.26,Neural net - outside only,6.497945894125128
+C: expanding-window CV,2021-07-01,5.59,Neural net - outside only,5.69273331097596
+C: expanding-window CV,2021-08-01,5.3,Neural net - outside only,3.9509986508578168
+C: expanding-window CV,2021-09-01,4.35,Neural net - outside only,3.4442847117866284
+C: expanding-window CV,2021-10-01,4.48,Neural net - outside only,3.8122986009016
+C: expanding-window CV,2021-11-01,4.91,Neural net - outside only,4.374168834122025
+C: expanding-window CV,2021-12-01,5.66,Neural net - outside only,4.455400221176531
+C: expanding-window CV,2022-01-01,6.01,Neural net - outside only,4.586539200852849
+C: expanding-window CV,2022-02-01,6.07,Neural net - outside only,4.779174392339016
+C: expanding-window CV,2022-03-01,6.95,Neural net - outside only,6.9014997978581745
+C: expanding-window CV,2022-04-01,7.79,Neural net - outside only,8.12922686721583
+C: expanding-window CV,2022-05-01,7.04,Neural net - outside only,7.524189000625853
+C: expanding-window CV,2022-06-01,7.01,Neural net - outside only,8.17754095118401
+C: expanding-window CV,2022-07-01,6.71,Neural net - outside only,8.582900229392365
+C: expanding-window CV,2022-08-01,7.0,Neural net - outside only,8.199901572581142
+C: expanding-window CV,2022-09-01,7.41,Neural net - outside only,8.763268088612223
+C: expanding-window CV,2022-10-01,6.77,Neural net - outside only,8.914919607644187
+C: expanding-window CV,2022-11-01,5.88,Neural net - outside only,7.783471231093403
+C: expanding-window CV,2022-12-01,5.72,Neural net - outside only,6.326977098007922
+C: expanding-window CV,2023-01-01,6.52,Neural net - outside only,5.48130620978098
+C: expanding-window CV,2023-02-01,6.44,Neural net - outside only,5.503660470010916
+C: expanding-window CV,2023-03-01,5.66,Neural net - outside only,4.182159604345406
+C: expanding-window CV,2023-04-01,4.7,Neural net - outside only,2.8811354919052574
+C: expanding-window CV,2023-05-01,4.31,Neural net - outside only,3.500936711391789
+C: expanding-window CV,2023-06-01,4.87,Neural net - outside only,3.321966846958378
+C: expanding-window CV,2023-07-01,7.44,Neural net - outside only,3.8812955215078593
+C: expanding-window CV,2023-08-01,6.83,Neural net - outside only,6.438029871874183
+C: expanding-window CV,2023-09-01,5.02,Neural net - outside only,5.793708688674865
+C: expanding-window CV,2023-10-01,4.87,Neural net - outside only,4.185214695414108
+C: expanding-window CV,2023-11-01,5.55,Neural net - outside only,4.104732124612424
+C: expanding-window CV,2023-12-01,5.69,Neural net - outside only,4.9967886234744485
+C: expanding-window CV,2024-01-01,5.1,Neural net - outside only,4.872773319184862
+C: expanding-window CV,2024-02-01,5.09,Neural net - outside only,4.625458496295875
+C: expanding-window CV,2024-03-01,4.85,Neural net - outside only,5.298445680991654
+C: expanding-window CV,2024-04-01,4.83,Neural net - outside only,5.632224780238717
+C: expanding-window CV,2024-05-01,4.8,Neural net - outside only,5.7905183383534915
+C: expanding-window CV,2024-06-01,5.08,Neural net - outside only,5.971121248639241
+C: expanding-window CV,2024-07-01,3.6,Neural net - outside only,6.553305072076969
+C: expanding-window CV,2024-08-01,3.65,Neural net - outside only,4.97740894867825
+C: expanding-window CV,2024-09-01,5.49,Neural net - outside only,4.813251095260165
+C: expanding-window CV,2024-10-01,6.21,Neural net - outside only,6.362107396216799
+C: expanding-window CV,2024-11-01,5.48,Neural net - outside only,6.155126337976895
+C: expanding-window CV,2024-12-01,5.22,Neural net - outside only,5.3852695374162085
+C: expanding-window CV,2025-01-01,4.26,Neural net - outside only,6.380610937613813
+C: expanding-window CV,2025-02-01,3.61,Neural net - outside only,5.769548869846363
+C: expanding-window CV,2025-03-01,3.34,Neural net - outside only,4.554625943247396
+C: expanding-window CV,2025-04-01,3.16,Neural net - outside only,4.172385899612019
+C: expanding-window CV,2025-05-01,2.82,Neural net - outside only,3.228989096789144
+C: expanding-window CV,2025-06-01,2.1,Neural net - outside only,2.8239228191540184
+C: expanding-window CV,2025-07-01,1.61,Neural net - outside only,2.5994068665772625
+C: expanding-window CV,2025-08-01,2.07,Neural net - outside only,2.753633997755593
+C: expanding-window CV,2025-09-01,1.44,Neural net - outside only,4.288300314309851
+C: expanding-window CV,2025-10-01,0.25,Neural net - outside only,3.201374065574901
+C: expanding-window CV,2025-11-01,0.71,Neural net - outside only,2.906855517812229
+C: expanding-window CV,2025-12-01,1.33,Neural net - outside only,3.8442202393767473
+C: expanding-window CV,2016-06-01,5.77,Ridge - with CPI,5.662667667874894
+C: expanding-window CV,2016-07-01,6.07,Ridge - with CPI,5.6143020182858
+C: expanding-window CV,2016-08-01,5.05,Ridge - with CPI,5.6186136637662125
+C: expanding-window CV,2016-09-01,4.39,Ridge - with CPI,5.480666877107993
+C: expanding-window CV,2016-10-01,4.2,Ridge - with CPI,5.3562182740469195
+C: expanding-window CV,2016-11-01,3.63,Ridge - with CPI,5.28379803424198
+C: expanding-window CV,2016-12-01,3.41,Ridge - with CPI,5.224361899063331
+C: expanding-window CV,2017-01-01,3.17,Ridge - with CPI,5.291666287732473
+C: expanding-window CV,2017-02-01,3.65,Ridge - with CPI,5.511874519805718
+C: expanding-window CV,2017-03-01,3.89,Ridge - with CPI,5.757155772421225
+C: expanding-window CV,2017-04-01,2.99,Ridge - with CPI,5.795579572362767
+C: expanding-window CV,2017-05-01,2.18,Ridge - with CPI,5.656998307279058
+C: expanding-window CV,2017-06-01,1.46,Ridge - with CPI,5.1452775717222785
+C: expanding-window CV,2017-07-01,2.36,Ridge - with CPI,4.679974967960479
+C: expanding-window CV,2017-08-01,3.28,Ridge - with CPI,4.895626211067219
+C: expanding-window CV,2017-09-01,3.28,Ridge - with CPI,5.23887436991837
+C: expanding-window CV,2017-10-01,3.58,Ridge - with CPI,5.2044644603412555
+C: expanding-window CV,2017-11-01,4.88,Ridge - with CPI,5.25605173656735
+C: expanding-window CV,2017-12-01,5.21,Ridge - with CPI,5.614593634899
+C: expanding-window CV,2018-01-01,5.07,Ridge - with CPI,5.581166226756921
+C: expanding-window CV,2018-02-01,4.44,Ridge - with CPI,5.6163791998360395
+C: expanding-window CV,2018-03-01,4.28,Ridge - with CPI,5.335404882107574
+C: expanding-window CV,2018-04-01,4.58,Ridge - with CPI,5.220038468384027
+C: expanding-window CV,2018-05-01,4.87,Ridge - with CPI,4.608170252555413
+C: expanding-window CV,2018-06-01,4.92,Ridge - with CPI,5.378778474848166
+C: expanding-window CV,2018-07-01,4.17,Ridge - with CPI,5.634324384324822
+C: expanding-window CV,2018-08-01,3.69,Ridge - with CPI,5.114289188375278
+C: expanding-window CV,2018-09-01,3.7,Ridge - with CPI,5.140634122006609
+C: expanding-window CV,2018-10-01,3.38,Ridge - with CPI,6.082259327359612
+C: expanding-window CV,2018-11-01,2.33,Ridge - with CPI,5.675683153980238
+C: expanding-window CV,2018-12-01,2.11,Ridge - with CPI,4.260052035195943
+C: expanding-window CV,2019-01-01,1.97,Ridge - with CPI,3.4057081388332375
+C: expanding-window CV,2019-02-01,2.57,Ridge - with CPI,3.441347640991619
+C: expanding-window CV,2019-03-01,2.86,Ridge - with CPI,3.6157469330252647
+C: expanding-window CV,2019-04-01,2.99,Ridge - with CPI,3.5484002521344973
+C: expanding-window CV,2019-05-01,3.05,Ridge - with CPI,3.480783208048498
+C: expanding-window CV,2019-06-01,3.18,Ridge - with CPI,3.3792165339319657
+C: expanding-window CV,2019-07-01,3.15,Ridge - with CPI,2.8567764409334457
+C: expanding-window CV,2019-08-01,3.28,Ridge - with CPI,2.205709275889171
+C: expanding-window CV,2019-09-01,3.99,Ridge - with CPI,2.4173387455734585
+C: expanding-window CV,2019-10-01,4.62,Ridge - with CPI,2.4672207159638426
+C: expanding-window CV,2019-11-01,5.54,Ridge - with CPI,2.974182231046738
+C: expanding-window CV,2019-12-01,7.35,Ridge - with CPI,3.5504401953523574
+C: expanding-window CV,2020-01-01,7.59,Ridge - with CPI,5.3786159675823395
+C: expanding-window CV,2020-02-01,6.58,Ridge - with CPI,5.608288721057005
+C: expanding-window CV,2020-03-01,5.84,Ridge - with CPI,5.436800066438922
+C: expanding-window CV,2020-04-01,7.22,Ridge - with CPI,5.203253888480492
+C: expanding-window CV,2020-05-01,6.27,Ridge - with CPI,6.50042090944866
+C: expanding-window CV,2020-06-01,6.23,Ridge - with CPI,6.267890353733394
+C: expanding-window CV,2020-07-01,6.73,Ridge - with CPI,6.420597054674207
+C: expanding-window CV,2020-08-01,6.69,Ridge - with CPI,6.564397443684745
+C: expanding-window CV,2020-09-01,7.27,Ridge - with CPI,6.177374271434594
+C: expanding-window CV,2020-10-01,7.61,Ridge - with CPI,6.801246650907647
+C: expanding-window CV,2020-11-01,6.93,Ridge - with CPI,6.9458613781255805
+C: expanding-window CV,2020-12-01,4.59,Ridge - with CPI,6.562554452067783
+C: expanding-window CV,2021-01-01,4.06,Ridge - with CPI,4.65203220995036
+C: expanding-window CV,2021-02-01,5.03,Ridge - with CPI,4.224769121886787
+C: expanding-window CV,2021-03-01,5.52,Ridge - with CPI,5.326085926895956
+C: expanding-window CV,2021-04-01,4.23,Ridge - with CPI,5.456846768271994
+C: expanding-window CV,2021-05-01,6.3,Ridge - with CPI,4.607104913919026
+C: expanding-window CV,2021-06-01,6.26,Ridge - with CPI,4.843594436097439
+C: expanding-window CV,2021-07-01,5.59,Ridge - with CPI,4.729956008353003
+C: expanding-window CV,2021-08-01,5.3,Ridge - with CPI,3.7356275972922144
+C: expanding-window CV,2021-09-01,4.35,Ridge - with CPI,4.009918152417339
+C: expanding-window CV,2021-10-01,4.48,Ridge - with CPI,3.607881407300906
+C: expanding-window CV,2021-11-01,4.91,Ridge - with CPI,4.0857288606885485
+C: expanding-window CV,2021-12-01,5.66,Ridge - with CPI,4.239346067581363
+C: expanding-window CV,2022-01-01,6.01,Ridge - with CPI,4.790801541045023
+C: expanding-window CV,2022-02-01,6.07,Ridge - with CPI,4.906886469523854
+C: expanding-window CV,2022-03-01,6.95,Ridge - with CPI,5.698335678726537
+C: expanding-window CV,2022-04-01,7.79,Ridge - with CPI,6.487977260720344
+C: expanding-window CV,2022-05-01,7.04,Ridge - with CPI,6.7942296552888655
+C: expanding-window CV,2022-06-01,7.01,Ridge - with CPI,6.822513986442844
+C: expanding-window CV,2022-07-01,6.71,Ridge - with CPI,6.548096711085972
+C: expanding-window CV,2022-08-01,7.0,Ridge - with CPI,6.216989798957798
+C: expanding-window CV,2022-09-01,7.41,Ridge - with CPI,6.090055431717617
+C: expanding-window CV,2022-10-01,6.77,Ridge - with CPI,5.9098874138190665
+C: expanding-window CV,2022-11-01,5.88,Ridge - with CPI,5.556003377623795
+C: expanding-window CV,2022-12-01,5.72,Ridge - with CPI,4.565459015487971
+C: expanding-window CV,2023-01-01,6.52,Ridge - with CPI,4.555371547566523
+C: expanding-window CV,2023-02-01,6.44,Ridge - with CPI,5.188747559603929
+C: expanding-window CV,2023-03-01,5.66,Ridge - with CPI,5.230589885233825
+C: expanding-window CV,2023-04-01,4.7,Ridge - with CPI,4.956292996774001
+C: expanding-window CV,2023-05-01,4.31,Ridge - with CPI,4.420981833001843
+C: expanding-window CV,2023-06-01,4.87,Ridge - with CPI,3.9551785916272375
+C: expanding-window CV,2023-07-01,7.44,Ridge - with CPI,4.3317372084712575
+C: expanding-window CV,2023-08-01,6.83,Ridge - with CPI,6.806451228697207
+C: expanding-window CV,2023-09-01,5.02,Ridge - with CPI,6.30046216661969
+C: expanding-window CV,2023-10-01,4.87,Ridge - with CPI,4.855835695880563
+C: expanding-window CV,2023-11-01,5.55,Ridge - with CPI,4.951142481276767
+C: expanding-window CV,2023-12-01,5.69,Ridge - with CPI,5.646727745839961
+C: expanding-window CV,2024-01-01,5.1,Ridge - with CPI,5.472498433316165
+C: expanding-window CV,2024-02-01,5.09,Ridge - with CPI,4.821563203283361
+C: expanding-window CV,2024-03-01,4.85,Ridge - with CPI,5.289552736853999
+C: expanding-window CV,2024-04-01,4.83,Ridge - with CPI,5.114174814903112
+C: expanding-window CV,2024-05-01,4.8,Ridge - with CPI,5.070962391255071
+C: expanding-window CV,2024-06-01,5.08,Ridge - with CPI,5.0635730561705286
+C: expanding-window CV,2024-07-01,3.6,Ridge - with CPI,5.175601242977302
+C: expanding-window CV,2024-08-01,3.65,Ridge - with CPI,3.4892488228698815
+C: expanding-window CV,2024-09-01,5.49,Ridge - with CPI,3.931446706365554
+C: expanding-window CV,2024-10-01,6.21,Ridge - with CPI,5.879255132772826
+C: expanding-window CV,2024-11-01,5.48,Ridge - with CPI,5.765674671522999
+C: expanding-window CV,2024-12-01,5.22,Ridge - with CPI,4.873979814667662
+C: expanding-window CV,2025-01-01,4.26,Ridge - with CPI,5.531724672880161
+C: expanding-window CV,2025-02-01,3.61,Ridge - with CPI,4.867517557325283
+C: expanding-window CV,2025-03-01,3.34,Ridge - with CPI,4.027158957707869
+C: expanding-window CV,2025-04-01,3.16,Ridge - with CPI,3.828653522279173
+C: expanding-window CV,2025-05-01,2.82,Ridge - with CPI,3.4527634061167314
+C: expanding-window CV,2025-06-01,2.1,Ridge - with CPI,3.1375404634255597
+C: expanding-window CV,2025-07-01,1.61,Ridge - with CPI,2.794698807798237
+C: expanding-window CV,2025-08-01,2.07,Ridge - with CPI,2.3893233411894927
+C: expanding-window CV,2025-09-01,1.44,Ridge - with CPI,2.9739813427890827
+C: expanding-window CV,2025-10-01,0.25,Ridge - with CPI,2.002504166714182
+C: expanding-window CV,2025-11-01,0.71,Ridge - with CPI,0.873320548478552
+C: expanding-window CV,2025-12-01,1.33,Ridge - with CPI,1.838301936925117
+C: expanding-window CV,2016-06-01,5.77,Random Forest (extra) - with CPI,6.095146823593074
+C: expanding-window CV,2016-07-01,6.07,Random Forest (extra) - with CPI,5.433957035464536
+C: expanding-window CV,2016-08-01,5.05,Random Forest (extra) - with CPI,5.349048669663668
+C: expanding-window CV,2016-09-01,4.39,Random Forest (extra) - with CPI,5.385457737123988
+C: expanding-window CV,2016-10-01,4.2,Random Forest (extra) - with CPI,5.4252992252192245
+C: expanding-window CV,2016-11-01,3.63,Random Forest (extra) - with CPI,4.795492610028859
+C: expanding-window CV,2016-12-01,3.41,Random Forest (extra) - with CPI,4.727668115079363
+C: expanding-window CV,2017-01-01,3.17,Random Forest (extra) - with CPI,4.826406249999997
+C: expanding-window CV,2017-02-01,3.65,Random Forest (extra) - with CPI,5.122551865079362
+C: expanding-window CV,2017-03-01,3.89,Random Forest (extra) - with CPI,5.411230939754691
+C: expanding-window CV,2017-04-01,2.99,Random Forest (extra) - with CPI,5.784520939754693
+C: expanding-window CV,2017-05-01,2.18,Random Forest (extra) - with CPI,5.433167817460319
+C: expanding-window CV,2017-06-01,1.46,Random Forest (extra) - with CPI,5.373364960317461
+C: expanding-window CV,2017-07-01,2.36,Random Forest (extra) - with CPI,5.300204265873015
+C: expanding-window CV,2017-08-01,3.28,Random Forest (extra) - with CPI,4.990277440476189
+C: expanding-window CV,2017-09-01,3.28,Random Forest (extra) - with CPI,5.584100039682544
+C: expanding-window CV,2017-10-01,3.58,Random Forest (extra) - with CPI,5.095361836219334
+C: expanding-window CV,2017-11-01,4.88,Random Forest (extra) - with CPI,5.514906011904766
+C: expanding-window CV,2017-12-01,5.21,Random Forest (extra) - with CPI,5.690566205738707
+C: expanding-window CV,2018-01-01,5.07,Random Forest (extra) - with CPI,5.791069360500612
+C: expanding-window CV,2018-02-01,4.44,Random Forest (extra) - with CPI,5.861217574786324
+C: expanding-window CV,2018-03-01,4.28,Random Forest (extra) - with CPI,4.956017876984124
+C: expanding-window CV,2018-04-01,4.58,Random Forest (extra) - with CPI,4.944349027777776
+C: expanding-window CV,2018-05-01,4.87,Random Forest (extra) - with CPI,4.149834491480743
+C: expanding-window CV,2018-06-01,4.92,Random Forest (extra) - with CPI,4.529417924714178
+C: expanding-window CV,2018-07-01,4.17,Random Forest (extra) - with CPI,4.3639777563776105
+C: expanding-window CV,2018-08-01,3.69,Random Forest (extra) - with CPI,3.8229299106449104
+C: expanding-window CV,2018-09-01,3.7,Random Forest (extra) - with CPI,3.55206633921634
+C: expanding-window CV,2018-10-01,3.38,Random Forest (extra) - with CPI,3.520124098262848
+C: expanding-window CV,2018-11-01,2.33,Random Forest (extra) - with CPI,3.6843511954711947
+C: expanding-window CV,2018-12-01,2.11,Random Forest (extra) - with CPI,3.8149392399267414
+C: expanding-window CV,2019-01-01,1.97,Random Forest (extra) - with CPI,3.3787149800199803
+C: expanding-window CV,2019-02-01,2.57,Random Forest (extra) - with CPI,3.378135953213453
+C: expanding-window CV,2019-03-01,2.86,Random Forest (extra) - with CPI,4.155537651653904
+C: expanding-window CV,2019-04-01,2.99,Random Forest (extra) - with CPI,4.152241158147412
+C: expanding-window CV,2019-05-01,3.05,Random Forest (extra) - with CPI,4.2099507811632835
+C: expanding-window CV,2019-06-01,3.18,Random Forest (extra) - with CPI,4.234172999084252
+C: expanding-window CV,2019-07-01,3.15,Random Forest (extra) - with CPI,4.180631018319275
+C: expanding-window CV,2019-08-01,3.28,Random Forest (extra) - with CPI,4.08485483914306
+C: expanding-window CV,2019-09-01,3.99,Random Forest (extra) - with CPI,4.147229640832384
+C: expanding-window CV,2019-10-01,4.62,Random Forest (extra) - with CPI,4.618581180093774
+C: expanding-window CV,2019-11-01,5.54,Random Forest (extra) - with CPI,4.896866555310874
+C: expanding-window CV,2019-12-01,7.35,Random Forest (extra) - with CPI,5.06659452362524
+C: expanding-window CV,2020-01-01,7.59,Random Forest (extra) - with CPI,5.107914381234951
+C: expanding-window CV,2020-02-01,6.58,Random Forest (extra) - with CPI,5.20204064954997
+C: expanding-window CV,2020-03-01,5.84,Random Forest (extra) - with CPI,5.179786410839332
+C: expanding-window CV,2020-04-01,7.22,Random Forest (extra) - with CPI,5.95089945776363
+C: expanding-window CV,2020-05-01,6.27,Random Forest (extra) - with CPI,6.440443911530724
+C: expanding-window CV,2020-06-01,6.23,Random Forest (extra) - with CPI,6.095095660073846
+C: expanding-window CV,2020-07-01,6.73,Random Forest (extra) - with CPI,5.617252142885871
+C: expanding-window CV,2020-08-01,6.69,Random Forest (extra) - with CPI,6.148284438963815
+C: expanding-window CV,2020-09-01,7.27,Random Forest (extra) - with CPI,6.150878848304475
+C: expanding-window CV,2020-10-01,7.61,Random Forest (extra) - with CPI,6.242437689393939
+C: expanding-window CV,2020-11-01,6.93,Random Forest (extra) - with CPI,6.266758225108227
+C: expanding-window CV,2020-12-01,4.59,Random Forest (extra) - with CPI,5.989324725212656
+C: expanding-window CV,2021-01-01,4.06,Random Forest (extra) - with CPI,4.36996242068886
+C: expanding-window CV,2021-02-01,5.03,Random Forest (extra) - with CPI,3.9551532618705725
+C: expanding-window CV,2021-03-01,5.52,Random Forest (extra) - with CPI,4.436272534027321
+C: expanding-window CV,2021-04-01,4.23,Random Forest (extra) - with CPI,5.06791090578413
+C: expanding-window CV,2021-05-01,6.3,Random Forest (extra) - with CPI,3.934680433085045
+C: expanding-window CV,2021-06-01,6.26,Random Forest (extra) - with CPI,5.0650274735195016
+C: expanding-window CV,2021-07-01,5.59,Random Forest (extra) - with CPI,5.035635107119131
+C: expanding-window CV,2021-08-01,5.3,Random Forest (extra) - with CPI,4.55213451589253
+C: expanding-window CV,2021-09-01,4.35,Random Forest (extra) - with CPI,3.9508951518786173
+C: expanding-window CV,2021-10-01,4.48,Random Forest (extra) - with CPI,3.5553840517943343
+C: expanding-window CV,2021-11-01,4.91,Random Forest (extra) - with CPI,3.6752277849909634
+C: expanding-window CV,2021-12-01,5.66,Random Forest (extra) - with CPI,3.839220719326363
+C: expanding-window CV,2022-01-01,6.01,Random Forest (extra) - with CPI,4.572580159429765
+C: expanding-window CV,2022-02-01,6.07,Random Forest (extra) - with CPI,5.046469310436753
+C: expanding-window CV,2022-03-01,6.95,Random Forest (extra) - with CPI,5.706630742418206
+C: expanding-window CV,2022-04-01,7.79,Random Forest (extra) - with CPI,6.130399103894472
+C: expanding-window CV,2022-05-01,7.04,Random Forest (extra) - with CPI,6.2905927273616475
+C: expanding-window CV,2022-06-01,7.01,Random Forest (extra) - with CPI,6.14111110148022
+C: expanding-window CV,2022-07-01,6.71,Random Forest (extra) - with CPI,6.146577797367666
+C: expanding-window CV,2022-08-01,7.0,Random Forest (extra) - with CPI,5.9321502574958345
+C: expanding-window CV,2022-09-01,7.41,Random Forest (extra) - with CPI,6.162455725639511
+C: expanding-window CV,2022-10-01,6.77,Random Forest (extra) - with CPI,6.393495334094784
+C: expanding-window CV,2022-11-01,5.88,Random Forest (extra) - with CPI,5.92034452385975
+C: expanding-window CV,2022-12-01,5.72,Random Forest (extra) - with CPI,5.428435367878324
+C: expanding-window CV,2023-01-01,6.52,Random Forest (extra) - with CPI,5.322959989052897
+C: expanding-window CV,2023-02-01,6.44,Random Forest (extra) - with CPI,5.833545869681669
+C: expanding-window CV,2023-03-01,5.66,Random Forest (extra) - with CPI,5.7103057931374925
+C: expanding-window CV,2023-04-01,4.7,Random Forest (extra) - with CPI,5.6357954562566555
+C: expanding-window CV,2023-05-01,4.31,Random Forest (extra) - with CPI,4.746476750711725
+C: expanding-window CV,2023-06-01,4.87,Random Forest (extra) - with CPI,4.515820374559276
+C: expanding-window CV,2023-07-01,7.44,Random Forest (extra) - with CPI,4.7708375772609255
+C: expanding-window CV,2023-08-01,6.83,Random Forest (extra) - with CPI,6.388917155344654
+C: expanding-window CV,2023-09-01,5.02,Random Forest (extra) - with CPI,6.255886260545009
+C: expanding-window CV,2023-10-01,4.87,Random Forest (extra) - with CPI,5.020356868479192
+C: expanding-window CV,2023-11-01,5.55,Random Forest (extra) - with CPI,4.668948933888836
+C: expanding-window CV,2023-12-01,5.69,Random Forest (extra) - with CPI,5.931649056692105
+C: expanding-window CV,2024-01-01,5.1,Random Forest (extra) - with CPI,6.29623429222052
+C: expanding-window CV,2024-02-01,5.09,Random Forest (extra) - with CPI,5.028588938257116
+C: expanding-window CV,2024-03-01,4.85,Random Forest (extra) - with CPI,5.190789990653485
+C: expanding-window CV,2024-04-01,4.83,Random Forest (extra) - with CPI,5.199036118620768
+C: expanding-window CV,2024-05-01,4.8,Random Forest (extra) - with CPI,5.222849023040757
+C: expanding-window CV,2024-06-01,5.08,Random Forest (extra) - with CPI,5.279085641703727
+C: expanding-window CV,2024-07-01,3.6,Random Forest (extra) - with CPI,5.258308920583414
+C: expanding-window CV,2024-08-01,3.65,Random Forest (extra) - with CPI,4.014301763197209
+C: expanding-window CV,2024-09-01,5.49,Random Forest (extra) - with CPI,4.089901024771549
+C: expanding-window CV,2024-10-01,6.21,Random Forest (extra) - with CPI,5.575173918953503
+C: expanding-window CV,2024-11-01,5.48,Random Forest (extra) - with CPI,5.897641161033128
+C: expanding-window CV,2024-12-01,5.22,Random Forest (extra) - with CPI,5.185771705987508
+C: expanding-window CV,2025-01-01,4.26,Random Forest (extra) - with CPI,5.135925320989385
+C: expanding-window CV,2025-02-01,3.61,Random Forest (extra) - with CPI,4.88213839897438
+C: expanding-window CV,2025-03-01,3.34,Random Forest (extra) - with CPI,3.792662762170878
+C: expanding-window CV,2025-04-01,3.16,Random Forest (extra) - with CPI,3.5758665651446484
+C: expanding-window CV,2025-05-01,2.82,Random Forest (extra) - with CPI,3.5135233157945964
+C: expanding-window CV,2025-06-01,2.1,Random Forest (extra) - with CPI,3.377969465934746
+C: expanding-window CV,2025-07-01,1.61,Random Forest (extra) - with CPI,3.181320946345323
+C: expanding-window CV,2025-08-01,2.07,Random Forest (extra) - with CPI,3.206605682977154
+C: expanding-window CV,2025-09-01,1.44,Random Forest (extra) - with CPI,3.3640337389274806
+C: expanding-window CV,2025-10-01,0.25,Random Forest (extra) - with CPI,3.2708292709169915
+C: expanding-window CV,2025-11-01,0.71,Random Forest (extra) - with CPI,3.193139173236895
+C: expanding-window CV,2025-12-01,1.33,Random Forest (extra) - with CPI,3.2111786176813393
+C: expanding-window CV,2016-06-01,5.77,Neural net - with CPI,5.994319281255279
+C: expanding-window CV,2016-07-01,6.07,Neural net - with CPI,5.893919447883415
+C: expanding-window CV,2016-08-01,5.05,Neural net - with CPI,5.716025493543859
+C: expanding-window CV,2016-09-01,4.39,Neural net - with CPI,5.255663121265646
+C: expanding-window CV,2016-10-01,4.2,Neural net - with CPI,4.945847173829748
+C: expanding-window CV,2016-11-01,3.63,Neural net - with CPI,5.118698201834036
+C: expanding-window CV,2016-12-01,3.41,Neural net - with CPI,4.914755352260037
+C: expanding-window CV,2017-01-01,3.17,Neural net - with CPI,5.480292675560231
+C: expanding-window CV,2017-02-01,3.65,Neural net - with CPI,5.744258455278361
+C: expanding-window CV,2017-03-01,3.89,Neural net - with CPI,5.832832716701423
+C: expanding-window CV,2017-04-01,2.99,Neural net - with CPI,5.30901874933746
+C: expanding-window CV,2017-05-01,2.18,Neural net - with CPI,5.1402168467744564
+C: expanding-window CV,2017-06-01,1.46,Neural net - with CPI,4.627764213906703
+C: expanding-window CV,2017-07-01,2.36,Neural net - with CPI,4.749764062524665
+C: expanding-window CV,2017-08-01,3.28,Neural net - with CPI,5.762157010421838
+C: expanding-window CV,2017-09-01,3.28,Neural net - with CPI,5.738123781460798
+C: expanding-window CV,2017-10-01,3.58,Neural net - with CPI,5.289937176704835
+C: expanding-window CV,2017-11-01,4.88,Neural net - with CPI,5.4898227186903235
+C: expanding-window CV,2017-12-01,5.21,Neural net - with CPI,6.192837606146028
+C: expanding-window CV,2018-01-01,5.07,Neural net - with CPI,5.645599258410692
+C: expanding-window CV,2018-02-01,4.44,Neural net - with CPI,5.292960156045252
+C: expanding-window CV,2018-03-01,4.28,Neural net - with CPI,4.95270426507591
+C: expanding-window CV,2018-04-01,4.58,Neural net - with CPI,5.4278434997184055
+C: expanding-window CV,2018-05-01,4.87,Neural net - with CPI,4.81561101308709
+C: expanding-window CV,2018-06-01,4.92,Neural net - with CPI,5.612819328686269
+C: expanding-window CV,2018-07-01,4.17,Neural net - with CPI,5.928752593056031
+C: expanding-window CV,2018-08-01,3.69,Neural net - with CPI,5.635079121160957
+C: expanding-window CV,2018-09-01,3.7,Neural net - with CPI,5.387643734591869
+C: expanding-window CV,2018-10-01,3.38,Neural net - with CPI,6.362182367049701
+C: expanding-window CV,2018-11-01,2.33,Neural net - with CPI,6.0272354144139175
+C: expanding-window CV,2018-12-01,2.11,Neural net - with CPI,3.278977457134115
+C: expanding-window CV,2019-01-01,1.97,Neural net - with CPI,2.0257397196090543
+C: expanding-window CV,2019-02-01,2.57,Neural net - with CPI,2.433626200957134
+C: expanding-window CV,2019-03-01,2.86,Neural net - with CPI,2.983382943943116
+C: expanding-window CV,2019-04-01,2.99,Neural net - with CPI,2.929309955524328
+C: expanding-window CV,2019-05-01,3.05,Neural net - with CPI,3.0906457783343573
+C: expanding-window CV,2019-06-01,3.18,Neural net - with CPI,3.2805787804991384
+C: expanding-window CV,2019-07-01,3.15,Neural net - with CPI,3.5733361693748815
+C: expanding-window CV,2019-08-01,3.28,Neural net - with CPI,3.3645545173978677
+C: expanding-window CV,2019-09-01,3.99,Neural net - with CPI,3.756458733707599
+C: expanding-window CV,2019-10-01,4.62,Neural net - with CPI,3.7209833041230733
+C: expanding-window CV,2019-11-01,5.54,Neural net - with CPI,4.32505874127308
+C: expanding-window CV,2019-12-01,7.35,Neural net - with CPI,4.403759849866487
+C: expanding-window CV,2020-01-01,7.59,Neural net - with CPI,5.2920249002567035
+C: expanding-window CV,2020-02-01,6.58,Neural net - with CPI,5.103044898798433
+C: expanding-window CV,2020-03-01,5.84,Neural net - with CPI,4.847935761670642
+C: expanding-window CV,2020-04-01,7.22,Neural net - with CPI,3.9766246725529624
+C: expanding-window CV,2020-05-01,6.27,Neural net - with CPI,4.984186687483923
+C: expanding-window CV,2020-06-01,6.23,Neural net - with CPI,5.383487320101616
+C: expanding-window CV,2020-07-01,6.73,Neural net - with CPI,5.853002732310513
+C: expanding-window CV,2020-08-01,6.69,Neural net - with CPI,5.982996357873117
+C: expanding-window CV,2020-09-01,7.27,Neural net - with CPI,5.529783406778522
+C: expanding-window CV,2020-10-01,7.61,Neural net - with CPI,6.227906782790837
+C: expanding-window CV,2020-11-01,6.93,Neural net - with CPI,6.4370307112212295
+C: expanding-window CV,2020-12-01,4.59,Neural net - with CPI,6.237495293366131
+C: expanding-window CV,2021-01-01,4.06,Neural net - with CPI,4.1218170367668145
+C: expanding-window CV,2021-02-01,5.03,Neural net - with CPI,3.8464877710994934
+C: expanding-window CV,2021-03-01,5.52,Neural net - with CPI,4.837089392409291
+C: expanding-window CV,2021-04-01,4.23,Neural net - with CPI,5.30622950868775
+C: expanding-window CV,2021-05-01,6.3,Neural net - with CPI,5.154665501225682
+C: expanding-window CV,2021-06-01,6.26,Neural net - with CPI,5.886160997280621
+C: expanding-window CV,2021-07-01,5.59,Neural net - with CPI,6.210527762165099
+C: expanding-window CV,2021-08-01,5.3,Neural net - with CPI,5.370690764392349
+C: expanding-window CV,2021-09-01,4.35,Neural net - with CPI,4.685465381725574
+C: expanding-window CV,2021-10-01,4.48,Neural net - with CPI,4.369492747009902
+C: expanding-window CV,2021-11-01,4.91,Neural net - with CPI,5.3684468017446685
+C: expanding-window CV,2021-12-01,5.66,Neural net - with CPI,4.9556298905413785
+C: expanding-window CV,2022-01-01,6.01,Neural net - with CPI,5.3475885483971695
+C: expanding-window CV,2022-02-01,6.07,Neural net - with CPI,5.421725173029519
+C: expanding-window CV,2022-03-01,6.95,Neural net - with CPI,6.025692472072605
+C: expanding-window CV,2022-04-01,7.79,Neural net - with CPI,6.882196429535644
+C: expanding-window CV,2022-05-01,7.04,Neural net - with CPI,7.004207158379499
+C: expanding-window CV,2022-06-01,7.01,Neural net - with CPI,7.38053869530993
+C: expanding-window CV,2022-07-01,6.71,Neural net - with CPI,7.720950593015287
+C: expanding-window CV,2022-08-01,7.0,Neural net - with CPI,7.144045826959363
+C: expanding-window CV,2022-09-01,7.41,Neural net - with CPI,7.43407730306635
+C: expanding-window CV,2022-10-01,6.77,Neural net - with CPI,7.3154926015128465
+C: expanding-window CV,2022-11-01,5.88,Neural net - with CPI,6.553895789357782
+C: expanding-window CV,2022-12-01,5.72,Neural net - with CPI,5.6273271817432065
+C: expanding-window CV,2023-01-01,6.52,Neural net - with CPI,5.420397653153998
+C: expanding-window CV,2023-02-01,6.44,Neural net - with CPI,6.409548153679584
+C: expanding-window CV,2023-03-01,5.66,Neural net - with CPI,5.961625350596205
+C: expanding-window CV,2023-04-01,4.7,Neural net - with CPI,5.468500436774411
+C: expanding-window CV,2023-05-01,4.31,Neural net - with CPI,4.724077234668679
+C: expanding-window CV,2023-06-01,4.87,Neural net - with CPI,3.8435334098596465
+C: expanding-window CV,2023-07-01,7.44,Neural net - with CPI,4.279116267096163
+C: expanding-window CV,2023-08-01,6.83,Neural net - with CPI,7.4141193777044165
+C: expanding-window CV,2023-09-01,5.02,Neural net - with CPI,5.931977221012455
+C: expanding-window CV,2023-10-01,4.87,Neural net - with CPI,4.396588954882948
+C: expanding-window CV,2023-11-01,5.55,Neural net - with CPI,4.769297641994606
+C: expanding-window CV,2023-12-01,5.69,Neural net - with CPI,5.499228733033319
+C: expanding-window CV,2024-01-01,5.1,Neural net - with CPI,5.271195913924703
+C: expanding-window CV,2024-02-01,5.09,Neural net - with CPI,4.803823341953383
+C: expanding-window CV,2024-03-01,4.85,Neural net - with CPI,5.3999635705420514
+C: expanding-window CV,2024-04-01,4.83,Neural net - with CPI,5.3681139209246345
+C: expanding-window CV,2024-05-01,4.8,Neural net - with CPI,5.363785029923765
+C: expanding-window CV,2024-06-01,5.08,Neural net - with CPI,5.135297835078574
+C: expanding-window CV,2024-07-01,3.6,Neural net - with CPI,5.431848115369429
+C: expanding-window CV,2024-08-01,3.65,Neural net - with CPI,3.767293038141184
+C: expanding-window CV,2024-09-01,5.49,Neural net - with CPI,4.338164280529205
+C: expanding-window CV,2024-10-01,6.21,Neural net - with CPI,5.666380543962695
+C: expanding-window CV,2024-11-01,5.48,Neural net - with CPI,5.366258890385357
+C: expanding-window CV,2024-12-01,5.22,Neural net - with CPI,4.747715181550434
+C: expanding-window CV,2025-01-01,4.26,Neural net - with CPI,5.053060405559971
+C: expanding-window CV,2025-02-01,3.61,Neural net - with CPI,4.80157474475413
+C: expanding-window CV,2025-03-01,3.34,Neural net - with CPI,3.7628685950552616
+C: expanding-window CV,2025-04-01,3.16,Neural net - with CPI,3.5873979802418345
+C: expanding-window CV,2025-05-01,2.82,Neural net - with CPI,3.0542980394958037
+C: expanding-window CV,2025-06-01,2.1,Neural net - with CPI,2.9067209753487036
+C: expanding-window CV,2025-07-01,1.61,Neural net - with CPI,2.7074898037019053
+C: expanding-window CV,2025-08-01,2.07,Neural net - with CPI,2.672773041265263
+C: expanding-window CV,2025-09-01,1.44,Neural net - with CPI,3.3166980658340712
+C: expanding-window CV,2025-10-01,0.25,Neural net - with CPI,2.4176781594058223
+C: expanding-window CV,2025-11-01,0.71,Neural net - with CPI,1.7925225700848135
+C: expanding-window CV,2025-12-01,1.33,Neural net - with CPI,2.432297398927403

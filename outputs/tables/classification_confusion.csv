@@ -1,0 +1,163 @@
+scheme,model,actual,predicted,count
+A: 10-fold stratified CV,Majority (ZeroR),LOW,LOW,0
+A: 10-fold stratified CV,Majority (ZeroR),LOW,MEDIUM,42
+A: 10-fold stratified CV,Majority (ZeroR),LOW,HIGH,0
+A: 10-fold stratified CV,Majority (ZeroR),MEDIUM,LOW,0
+A: 10-fold stratified CV,Majority (ZeroR),MEDIUM,MEDIUM,65
+A: 10-fold stratified CV,Majority (ZeroR),MEDIUM,HIGH,0
+A: 10-fold stratified CV,Majority (ZeroR),HIGH,LOW,0
+A: 10-fold stratified CV,Majority (ZeroR),HIGH,MEDIUM,37
+A: 10-fold stratified CV,Majority (ZeroR),HIGH,HIGH,0
+A: 10-fold stratified CV,ID3,LOW,LOW,25
+A: 10-fold stratified CV,ID3,LOW,MEDIUM,14
+A: 10-fold stratified CV,ID3,LOW,HIGH,3
+A: 10-fold stratified CV,ID3,MEDIUM,LOW,7
+A: 10-fold stratified CV,ID3,MEDIUM,MEDIUM,55
+A: 10-fold stratified CV,ID3,MEDIUM,HIGH,3
+A: 10-fold stratified CV,ID3,HIGH,LOW,3
+A: 10-fold stratified CV,ID3,HIGH,MEDIUM,12
+A: 10-fold stratified CV,ID3,HIGH,HIGH,22
+A: 10-fold stratified CV,Naive Bayes,LOW,LOW,34
+A: 10-fold stratified CV,Naive Bayes,LOW,MEDIUM,7
+A: 10-fold stratified CV,Naive Bayes,LOW,HIGH,1
+A: 10-fold stratified CV,Naive Bayes,MEDIUM,LOW,22
+A: 10-fold stratified CV,Naive Bayes,MEDIUM,MEDIUM,34
+A: 10-fold stratified CV,Naive Bayes,MEDIUM,HIGH,9
+A: 10-fold stratified CV,Naive Bayes,HIGH,LOW,6
+A: 10-fold stratified CV,Naive Bayes,HIGH,MEDIUM,11
+A: 10-fold stratified CV,Naive Bayes,HIGH,HIGH,20
+A: 10-fold stratified CV,kNN,LOW,LOW,24
+A: 10-fold stratified CV,kNN,LOW,MEDIUM,17
+A: 10-fold stratified CV,kNN,LOW,HIGH,1
+A: 10-fold stratified CV,kNN,MEDIUM,LOW,8
+A: 10-fold stratified CV,kNN,MEDIUM,MEDIUM,54
+A: 10-fold stratified CV,kNN,MEDIUM,HIGH,3
+A: 10-fold stratified CV,kNN,HIGH,LOW,4
+A: 10-fold stratified CV,kNN,HIGH,MEDIUM,17
+A: 10-fold stratified CV,kNN,HIGH,HIGH,16
+A: 10-fold stratified CV,SVM,LOW,LOW,32
+A: 10-fold stratified CV,SVM,LOW,MEDIUM,10
+A: 10-fold stratified CV,SVM,LOW,HIGH,0
+A: 10-fold stratified CV,SVM,MEDIUM,LOW,7
+A: 10-fold stratified CV,SVM,MEDIUM,MEDIUM,49
+A: 10-fold stratified CV,SVM,MEDIUM,HIGH,9
+A: 10-fold stratified CV,SVM,HIGH,LOW,3
+A: 10-fold stratified CV,SVM,HIGH,MEDIUM,15
+A: 10-fold stratified CV,SVM,HIGH,HIGH,19
+A: 10-fold stratified CV,Random Forest (extra),LOW,LOW,30
+A: 10-fold stratified CV,Random Forest (extra),LOW,MEDIUM,12
+A: 10-fold stratified CV,Random Forest (extra),LOW,HIGH,0
+A: 10-fold stratified CV,Random Forest (extra),MEDIUM,LOW,9
+A: 10-fold stratified CV,Random Forest (extra),MEDIUM,MEDIUM,52
+A: 10-fold stratified CV,Random Forest (extra),MEDIUM,HIGH,4
+A: 10-fold stratified CV,Random Forest (extra),HIGH,LOW,3
+A: 10-fold stratified CV,Random Forest (extra),HIGH,MEDIUM,12
+A: 10-fold stratified CV,Random Forest (extra),HIGH,HIGH,22
+B: time holdout 2024-25,Majority (ZeroR),LOW,LOW,0
+B: time holdout 2024-25,Majority (ZeroR),LOW,MEDIUM,13
+B: time holdout 2024-25,Majority (ZeroR),LOW,HIGH,0
+B: time holdout 2024-25,Majority (ZeroR),MEDIUM,LOW,0
+B: time holdout 2024-25,Majority (ZeroR),MEDIUM,MEDIUM,10
+B: time holdout 2024-25,Majority (ZeroR),MEDIUM,HIGH,0
+B: time holdout 2024-25,Majority (ZeroR),HIGH,LOW,0
+B: time holdout 2024-25,Majority (ZeroR),HIGH,MEDIUM,1
+B: time holdout 2024-25,Majority (ZeroR),HIGH,HIGH,0
+B: time holdout 2024-25,ID3,LOW,LOW,4
+B: time holdout 2024-25,ID3,LOW,MEDIUM,9
+B: time holdout 2024-25,ID3,LOW,HIGH,0
+B: time holdout 2024-25,ID3,MEDIUM,LOW,0
+B: time holdout 2024-25,ID3,MEDIUM,MEDIUM,4
+B: time holdout 2024-25,ID3,MEDIUM,HIGH,6
+B: time holdout 2024-25,ID3,HIGH,LOW,0
+B: time holdout 2024-25,ID3,HIGH,MEDIUM,0
+B: time holdout 2024-25,ID3,HIGH,HIGH,1
+B: time holdout 2024-25,Naive Bayes,LOW,LOW,13
+B: time holdout 2024-25,Naive Bayes,LOW,MEDIUM,0
+B: time holdout 2024-25,Naive Bayes,LOW,HIGH,0
+B: time holdout 2024-25,Naive Bayes,MEDIUM,LOW,8
+B: time holdout 2024-25,Naive Bayes,MEDIUM,MEDIUM,2
+B: time holdout 2024-25,Naive Bayes,MEDIUM,HIGH,0
+B: time holdout 2024-25,Naive Bayes,HIGH,LOW,1
+B: time holdout 2024-25,Naive Bayes,HIGH,MEDIUM,0
+B: time holdout 2024-25,Naive Bayes,HIGH,HIGH,0
+B: time holdout 2024-25,kNN,LOW,LOW,3
+B: time holdout 2024-25,kNN,LOW,MEDIUM,10
+B: time holdout 2024-25,kNN,LOW,HIGH,0
+B: time holdout 2024-25,kNN,MEDIUM,LOW,0
+B: time holdout 2024-25,kNN,MEDIUM,MEDIUM,8
+B: time holdout 2024-25,kNN,MEDIUM,HIGH,2
+B: time holdout 2024-25,kNN,HIGH,LOW,0
+B: time holdout 2024-25,kNN,HIGH,MEDIUM,0
+B: time holdout 2024-25,kNN,HIGH,HIGH,1
+B: time holdout 2024-25,SVM,LOW,LOW,4
+B: time holdout 2024-25,SVM,LOW,MEDIUM,9
+B: time holdout 2024-25,SVM,LOW,HIGH,0
+B: time holdout 2024-25,SVM,MEDIUM,LOW,0
+B: time holdout 2024-25,SVM,MEDIUM,MEDIUM,8
+B: time holdout 2024-25,SVM,MEDIUM,HIGH,2
+B: time holdout 2024-25,SVM,HIGH,LOW,0
+B: time holdout 2024-25,SVM,HIGH,MEDIUM,0
+B: time holdout 2024-25,SVM,HIGH,HIGH,1
+B: time holdout 2024-25,Random Forest (extra),LOW,LOW,1
+B: time holdout 2024-25,Random Forest (extra),LOW,MEDIUM,12
+B: time holdout 2024-25,Random Forest (extra),LOW,HIGH,0
+B: time holdout 2024-25,Random Forest (extra),MEDIUM,LOW,0
+B: time holdout 2024-25,Random Forest (extra),MEDIUM,MEDIUM,5
+B: time holdout 2024-25,Random Forest (extra),MEDIUM,HIGH,5
+B: time holdout 2024-25,Random Forest (extra),HIGH,LOW,0
+B: time holdout 2024-25,Random Forest (extra),HIGH,MEDIUM,0
+B: time holdout 2024-25,Random Forest (extra),HIGH,HIGH,1
+C: expanding-window CV,Majority (ZeroR),LOW,LOW,0
+C: expanding-window CV,Majority (ZeroR),LOW,MEDIUM,39
+C: expanding-window CV,Majority (ZeroR),LOW,HIGH,0
+C: expanding-window CV,Majority (ZeroR),MEDIUM,LOW,0
+C: expanding-window CV,Majority (ZeroR),MEDIUM,MEDIUM,52
+C: expanding-window CV,Majority (ZeroR),MEDIUM,HIGH,0
+C: expanding-window CV,Majority (ZeroR),HIGH,LOW,0
+C: expanding-window CV,Majority (ZeroR),HIGH,MEDIUM,29
+C: expanding-window CV,Majority (ZeroR),HIGH,HIGH,0
+C: expanding-window CV,ID3,LOW,LOW,10
+C: expanding-window CV,ID3,LOW,MEDIUM,15
+C: expanding-window CV,ID3,LOW,HIGH,14
+C: expanding-window CV,ID3,MEDIUM,LOW,16
+C: expanding-window CV,ID3,MEDIUM,MEDIUM,21
+C: expanding-window CV,ID3,MEDIUM,HIGH,15
+C: expanding-window CV,ID3,HIGH,LOW,8
+C: expanding-window CV,ID3,HIGH,MEDIUM,17
+C: expanding-window CV,ID3,HIGH,HIGH,4
+C: expanding-window CV,Naive Bayes,LOW,LOW,23
+C: expanding-window CV,Naive Bayes,LOW,MEDIUM,8
+C: expanding-window CV,Naive Bayes,LOW,HIGH,8
+C: expanding-window CV,Naive Bayes,MEDIUM,LOW,24
+C: expanding-window CV,Naive Bayes,MEDIUM,MEDIUM,24
+C: expanding-window CV,Naive Bayes,MEDIUM,HIGH,4
+C: expanding-window CV,Naive Bayes,HIGH,LOW,4
+C: expanding-window CV,Naive Bayes,HIGH,MEDIUM,19
+C: expanding-window CV,Naive Bayes,HIGH,HIGH,6
+C: expanding-window CV,kNN,LOW,LOW,9
+C: expanding-window CV,kNN,LOW,MEDIUM,20
+C: expanding-window CV,kNN,LOW,HIGH,10
+C: expanding-window CV,kNN,MEDIUM,LOW,11
+C: expanding-window CV,kNN,MEDIUM,MEDIUM,36
+C: expanding-window CV,kNN,MEDIUM,HIGH,5
+C: expanding-window CV,kNN,HIGH,LOW,7
+C: expanding-window CV,kNN,HIGH,MEDIUM,18
+C: expanding-window CV,kNN,HIGH,HIGH,4
+C: expanding-window CV,SVM,LOW,LOW,11
+C: expanding-window CV,SVM,LOW,MEDIUM,21
+C: expanding-window CV,SVM,LOW,HIGH,7
+C: expanding-window CV,SVM,MEDIUM,LOW,20
+C: expanding-window CV,SVM,MEDIUM,MEDIUM,26
+C: expanding-window CV,SVM,MEDIUM,HIGH,6
+C: expanding-window CV,SVM,HIGH,LOW,11
+C: expanding-window CV,SVM,HIGH,MEDIUM,12
+C: expanding-window CV,SVM,HIGH,HIGH,6
+C: expanding-window CV,Random Forest (extra),LOW,LOW,5
+C: expanding-window CV,Random Forest (extra),LOW,MEDIUM,18
+C: expanding-window CV,Random Forest (extra),LOW,HIGH,16
+C: expanding-window CV,Random Forest (extra),MEDIUM,LOW,17
+C: expanding-window CV,Random Forest (extra),MEDIUM,MEDIUM,28
+C: expanding-window CV,Random Forest (extra),MEDIUM,HIGH,7
+C: expanding-window CV,Random Forest (extra),HIGH,LOW,7
+C: expanding-window CV,Random Forest (extra),HIGH,MEDIUM,19
+C: expanding-window CV,Random Forest (extra),HIGH,HIGH,3

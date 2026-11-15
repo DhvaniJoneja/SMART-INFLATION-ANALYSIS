@@ -1,0 +1,12 @@
+cpi_data/
+__pycache__/
+*.pyc
+
+/*.csv
+/*.xls
+/*.xlsx
+/*.xlsm
+
+data/interim/
+
+ssrn-6621538 (1).pdf

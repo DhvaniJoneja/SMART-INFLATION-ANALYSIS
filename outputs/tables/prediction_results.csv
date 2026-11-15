@@ -1,0 +1,25 @@
+scheme,model,n_test,rmse,mae,direction_acc
+V: validation 2023,Naive (last value),12,1.057,0.794,
+V: validation 2023,ARIMA (auto order),12,0.938,0.704,0.833
+V: validation 2023,Ridge - outside only,12,1.632,1.304,0.75
+V: validation 2023,Random Forest (extra) - outside only,12,1.683,1.302,0.583
+V: validation 2023,Neural net - outside only,12,1.77,1.548,0.583
+V: validation 2023,Ridge - with CPI,12,1.062,0.832,0.75
+V: validation 2023,Random Forest (extra) - with CPI,12,0.983,0.712,0.667
+V: validation 2023,Neural net - with CPI,12,1.129,0.8,0.583
+T: test 2024-25,Naive (last value),24,0.711,0.551,
+T: test 2024-25,ARIMA (auto order),24,0.643,0.513,0.542
+T: test 2024-25,Ridge - outside only,24,1.669,1.421,0.375
+T: test 2024-25,Random Forest (extra) - outside only,24,1.879,1.509,0.458
+T: test 2024-25,Neural net - outside only,24,1.372,1.121,0.5
+T: test 2024-25,Ridge - with CPI,24,0.882,0.703,0.417
+T: test 2024-25,Random Forest (extra) - with CPI,24,1.256,1.017,0.375
+T: test 2024-25,Neural net - with CPI,24,0.943,0.75,0.542
+C: expanding-window CV,Naive (last value),115,0.758,0.573,
+C: expanding-window CV,ARIMA (auto order),115,0.734,0.55,0.548
+C: expanding-window CV,Ridge - outside only,115,1.884,1.633,0.496
+C: expanding-window CV,Random Forest (extra) - outside only,115,1.846,1.547,0.53
+C: expanding-window CV,Neural net - outside only,115,1.731,1.418,0.504
+C: expanding-window CV,Ridge - with CPI,115,1.36,1.063,0.513
+C: expanding-window CV,Random Forest (extra) - with CPI,115,1.28,1.032,0.522
+C: expanding-window CV,Neural net - with CPI,115,1.289,0.975,0.557
