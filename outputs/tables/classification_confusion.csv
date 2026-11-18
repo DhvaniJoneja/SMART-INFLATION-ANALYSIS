@@ -53,6 +53,15 @@ A: 10-fold stratified CV,Random Forest (extra),MEDIUM,HIGH,4
 A: 10-fold stratified CV,Random Forest (extra),HIGH,LOW,3
 A: 10-fold stratified CV,Random Forest (extra),HIGH,MEDIUM,12
 A: 10-fold stratified CV,Random Forest (extra),HIGH,HIGH,22
+A: 10-fold stratified CV,XGBoost (extra),LOW,LOW,26
+A: 10-fold stratified CV,XGBoost (extra),LOW,MEDIUM,14
+A: 10-fold stratified CV,XGBoost (extra),LOW,HIGH,2
+A: 10-fold stratified CV,XGBoost (extra),MEDIUM,LOW,11
+A: 10-fold stratified CV,XGBoost (extra),MEDIUM,MEDIUM,49
+A: 10-fold stratified CV,XGBoost (extra),MEDIUM,HIGH,5
+A: 10-fold stratified CV,XGBoost (extra),HIGH,LOW,2
+A: 10-fold stratified CV,XGBoost (extra),HIGH,MEDIUM,12
+A: 10-fold stratified CV,XGBoost (extra),HIGH,HIGH,23
 B: time holdout 2024-25,Majority (ZeroR),LOW,LOW,0
 B: time holdout 2024-25,Majority (ZeroR),LOW,MEDIUM,13
 B: time holdout 2024-25,Majority (ZeroR),LOW,HIGH,0
@@ -107,6 +116,15 @@ B: time holdout 2024-25,Random Forest (extra),MEDIUM,HIGH,5
 B: time holdout 2024-25,Random Forest (extra),HIGH,LOW,0
 B: time holdout 2024-25,Random Forest (extra),HIGH,MEDIUM,0
 B: time holdout 2024-25,Random Forest (extra),HIGH,HIGH,1
+B: time holdout 2024-25,XGBoost (extra),LOW,LOW,7
+B: time holdout 2024-25,XGBoost (extra),LOW,MEDIUM,6
+B: time holdout 2024-25,XGBoost (extra),LOW,HIGH,0
+B: time holdout 2024-25,XGBoost (extra),MEDIUM,LOW,0
+B: time holdout 2024-25,XGBoost (extra),MEDIUM,MEDIUM,4
+B: time holdout 2024-25,XGBoost (extra),MEDIUM,HIGH,6
+B: time holdout 2024-25,XGBoost (extra),HIGH,LOW,0
+B: time holdout 2024-25,XGBoost (extra),HIGH,MEDIUM,0
+B: time holdout 2024-25,XGBoost (extra),HIGH,HIGH,1
 C: expanding-window CV,Majority (ZeroR),LOW,LOW,0
 C: expanding-window CV,Majority (ZeroR),LOW,MEDIUM,39
 C: expanding-window CV,Majority (ZeroR),LOW,HIGH,0
@@ -161,3 +179,12 @@ C: expanding-window CV,Random Forest (extra),MEDIUM,HIGH,7
 C: expanding-window CV,Random Forest (extra),HIGH,LOW,7
 C: expanding-window CV,Random Forest (extra),HIGH,MEDIUM,19
 C: expanding-window CV,Random Forest (extra),HIGH,HIGH,3
+C: expanding-window CV,XGBoost (extra),LOW,LOW,13
+C: expanding-window CV,XGBoost (extra),LOW,MEDIUM,12
+C: expanding-window CV,XGBoost (extra),LOW,HIGH,14
+C: expanding-window CV,XGBoost (extra),MEDIUM,LOW,17
+C: expanding-window CV,XGBoost (extra),MEDIUM,MEDIUM,23
+C: expanding-window CV,XGBoost (extra),MEDIUM,HIGH,12
+C: expanding-window CV,XGBoost (extra),HIGH,LOW,7
+C: expanding-window CV,XGBoost (extra),HIGH,MEDIUM,14
+C: expanding-window CV,XGBoost (extra),HIGH,HIGH,8

@@ -5,15 +5,18 @@ A: 10-fold stratified CV,Naive Bayes,144,0.611,0.623,0.624,0.611,0.81,0.523,0.54
 A: 10-fold stratified CV,kNN,144,0.653,0.693,0.612,0.628,0.571,0.831,0.432
 A: 10-fold stratified CV,SVM,144,0.694,0.701,0.676,0.684,0.762,0.754,0.514
 A: 10-fold stratified CV,Random Forest (extra),144,0.722,0.748,0.703,0.717,0.714,0.8,0.595
+A: 10-fold stratified CV,XGBoost (extra),144,0.681,0.696,0.665,0.676,0.619,0.754,0.622
 B: time holdout 2024-25,Majority (ZeroR),24,0.417,0.139,0.333,0.196,0.0,1.0,0.0
 B: time holdout 2024-25,ID3,24,0.375,0.484,0.569,0.356,0.308,0.4,1.0
 B: time holdout 2024-25,Naive Bayes,24,0.625,0.53,0.4,0.359,1.0,0.2,0.0
 B: time holdout 2024-25,kNN,24,0.5,0.593,0.677,0.482,0.231,0.8,1.0
 B: time holdout 2024-25,SVM,24,0.542,0.601,0.703,0.521,0.308,0.8,1.0
 B: time holdout 2024-25,Random Forest (extra),24,0.292,0.487,0.526,0.266,0.077,0.5,1.0
+B: time holdout 2024-25,XGBoost (extra),24,0.5,0.514,0.646,0.45,0.538,0.4,1.0
 C: expanding-window CV,Majority (ZeroR),120,0.433,0.144,0.333,0.202,0.0,1.0,0.0
 C: expanding-window CV,ID3,120,0.292,0.271,0.266,0.268,0.256,0.404,0.138
 C: expanding-window CV,Naive Bayes,120,0.442,0.418,0.419,0.411,0.59,0.462,0.207
 C: expanding-window CV,kNN,120,0.408,0.343,0.354,0.337,0.231,0.692,0.138
 C: expanding-window CV,SVM,120,0.358,0.339,0.33,0.33,0.282,0.5,0.207
 C: expanding-window CV,Random Forest (extra),120,0.3,0.24,0.257,0.245,0.128,0.538,0.103
+C: expanding-window CV,XGBoost (extra),120,0.367,0.352,0.351,0.351,0.333,0.442,0.276
