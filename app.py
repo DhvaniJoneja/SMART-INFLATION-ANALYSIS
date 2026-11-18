@@ -151,8 +151,6 @@ def page_regimes(df):
         use_container_width=True)
     st.markdown("**Cluster profile** (average of each indicator; cluster 0 has the lowest inflation)")
     st.dataframe(prof.set_index("cluster"), use_container_width=True)
-    st.info("K-Means only groups similar months. The names (for example 'food-driven' or 'cost-push shock') "
-            "are your interpretation of this table.")
     sel = load_csv(TAB / "kmeans_k_selection.csv")
     c1, c2 = st.columns(2)
     if sel is not None:
